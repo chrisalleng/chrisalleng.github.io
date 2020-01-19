@@ -4808,7 +4808,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Bomber",
         skill: 4,
-        points: 37,
+        points: 34,
         slots: ["Talent", "Torpedo", "Missile", "Missile", "Gunner", "Device", "Device", "Modification"]
       }, {
         name: "Tomax Bren",
