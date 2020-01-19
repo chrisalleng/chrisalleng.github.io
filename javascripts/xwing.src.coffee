@@ -3566,7 +3566,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "X-Wing"
             skill: 6
-            points: 55
+            points: 52
             slots: [
                 "Talent"
                 "Torpedo"
@@ -3688,7 +3688,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "TIE Fighter"
             skill: 3
-            points: 29
+            points: 28
             slots: [
                 "Talent"
                 "Modification"
@@ -3787,7 +3787,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "K-Wing"
             skill: 2
-            points: 38
+            points: 37
             slots: [
                 "Torpedo"
                 "Missile"
@@ -3905,7 +3905,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "Y-Wing"
             skill: 4
-            points: 40
+            points: 39
             slots: [
                 "Talent"
                 "Turret"
@@ -3991,7 +3991,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "U-Wing"
             skill: 3
-            points: 51
+            points: 47
             slots: [
                 "Talent"
                 "Sensor"
@@ -4131,6 +4131,7 @@ exportObj.basicCardData = ->
             slots: [
                 "Missile"
                 "Gunner"
+                "Crew"
                 "Modification"
                 "Title"
                 "Illicit"
@@ -4173,6 +4174,7 @@ exportObj.basicCardData = ->
                 "Gunner"
                 "Crew"
                 "Crew"
+                "Illicit"
                 "Modification"
                 "Modification"
                 "Title"
@@ -4193,6 +4195,7 @@ exportObj.basicCardData = ->
                 "Gunner"
                 "Crew"
                 "Crew"
+                "Illicit"
                 "Modification"
                 "Modification"
                 "Title"
@@ -4214,6 +4217,7 @@ exportObj.basicCardData = ->
                 "Gunner"
                 "Crew"
                 "Crew"
+                "Illicit"
                 "Modification"
                 "Modification"
                 "Title"
@@ -4231,6 +4235,7 @@ exportObj.basicCardData = ->
                 "Gunner"
                 "Crew"
                 "Crew"
+                "Illicit"
                 "Modification"
                 "Modification"
                 "Title"
@@ -4562,7 +4567,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "Attack Shuttle"
             skill: 3
-            points: 41
+            points: 38
             slots: [
                 "Talent"
                 "Crew"
@@ -4650,7 +4655,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "Sheathipede-Class Shuttle"
             skill: 2
-            points: 34
+            points: 32
             slots: [
                 "Talent"
                 "Crew"
@@ -4666,7 +4671,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "Sheathipede-Class Shuttle"
             skill: 1
-            points:32
+            points:30
             slots: [
                 "Talent"
                 "Crew"
@@ -4687,7 +4692,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "B-Wing"
             skill: 4
-            points: 52
+            points: 47
             slots: [
                 "Talent"
                 "Sensor"
@@ -4705,7 +4710,7 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             ship: "B-Wing"
             skill: 4
-            points: 48
+            points: 46
             slots: [
                 "Talent"
                 "Sensor"
@@ -4900,7 +4905,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Y-Wing"
             skill: 5
-            points: 43
+            points: 42
             slots: [
                 "Talent"
                 "Turret"
@@ -4919,7 +4924,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Y-Wing"
             skill: 4
-            points: 49
+            points: 40
             slots: [
                 "Talent"
                 "Turret"
@@ -5056,7 +5061,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Escape Craft"
             skill: 4
-            points: 29
+            points: 26
             slots: [
                 "Talent"
                 "Crew"
@@ -5070,7 +5075,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Escape Craft"
             skill: 3
-            points: 28
+            points: 24
             slots: [
                 "Talent"
                 "Crew"
@@ -5086,7 +5091,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Escape Craft"
             skill: 2
-            points: 26
+            points: 22
             slots: [
                 "Talent"
                 "Crew"
@@ -5197,7 +5202,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Firespray-31"
             skill: 5
-            points: 85
+            points: 80
             slots: [
                 "Talent"
                 "Cannon"
@@ -5365,7 +5370,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "HWK-290"
             skill: 3
-            points: 40
+            points: 38
             slots: [
                 "Talent"
                 "Crew"
@@ -5403,7 +5408,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "HWK-290"
             skill: 2
-            points: 38
+            points: 36
             slots: [
                 "Crew"
                 "Device"
@@ -5505,6 +5510,7 @@ exportObj.basicCardData = ->
                 "Illicit"
                 "Modification"
                 "Modification"
+                "Modification"
               ]
         }
         {
@@ -5520,6 +5526,7 @@ exportObj.basicCardData = ->
                 "Missile"
                 "Illicit"
                 "Illicit"
+                "Modification"
                 "Modification"
                 "Modification"
               ]
@@ -5539,6 +5546,7 @@ exportObj.basicCardData = ->
                 "Illicit"
                 "Modification"
                 "Modification"
+                "Modification"
               ]
         }
         {
@@ -5553,6 +5561,7 @@ exportObj.basicCardData = ->
                 "Missile"
                 "Illicit"
                 "Illicit"
+                "Modification"
                 "Modification"
                 "Modification"
               ]
@@ -5571,6 +5580,7 @@ exportObj.basicCardData = ->
                 "Illicit"
                 "Modification"
                 "Modification"
+                "Modification"
               ]
         }
         {
@@ -5584,6 +5594,7 @@ exportObj.basicCardData = ->
                 "Missile"
                 "Illicit"
                 "Illicit"
+                "Modification"
                 "Modification"
                 "Modification"
               ]
@@ -5715,7 +5726,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "M3-A Interceptor"
             skill: 5
-            points: 41
+            points: 40
             slots: [
                 "Talent"
                 "Modification"
@@ -5839,7 +5850,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Quadjumper"
             skill: 2
-            points: 32
+            points: 31
             slots: [
                 "Tech"
                 "Crew"
@@ -5870,7 +5881,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Quadjumper"
             skill: 1
-            points: 30
+            points: 28
             slots: [
                 "Tech"
                 "Crew"
@@ -5925,7 +5936,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "Scurrg H-6 Bomber"
             skill: 2
-            points: 45
+            points: 43
             slots: [
                 "Turret"
                 "Crew"
@@ -5943,7 +5954,7 @@ exportObj.basicCardData = ->
             faction: "Scum and Villainy"
             ship: "StarViper"
             skill: 5
-            points: 64
+            points: 62
             slots: [
                 "Talent"
                 "Sensor"
@@ -6187,7 +6198,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "Alpha-Class Star Wing"
             skill: 4
-            points: 41
+            points: 39
             slots: [
                 "Talent"         
                 "Sensor"
@@ -6287,7 +6298,7 @@ exportObj.basicCardData = ->
             ship: "Lambda-Class Shuttle"
             skill: 3
             charge: 2
-            points: 48
+            points: 46
             slots: [       
                 "Sensor"
                 "Cannon"
@@ -6381,7 +6392,7 @@ exportObj.basicCardData = ->
             ship: "TIE Advanced"
             skill: 6
             darkside: true
-            points: 67
+            points: 65
             force: 3
             slots: [       
                 "Force"
@@ -6468,7 +6479,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Interceptor"
             skill: 6
-            points: 53
+            points: 52
             slots: [       
                 "Talent"
                 "Modification"
@@ -6643,7 +6654,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Punisher"
             skill: 5
-            points: 52
+            points: 44
             slots: [       
                 "Sensor"
                 "Torpedo"
@@ -6662,7 +6673,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Punisher"
             skill: 4
-            points: 44
+            points: 42
             slots: [       
                 "Sensor"
                 "Torpedo"
@@ -6771,10 +6782,11 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Phantom"
             skill: 5
-            points: 57
+            points: 52
             slots: [       
                 "Talent"
                 "Sensor"
+                "Crew"
                 "Gunner"
                 "Modification"
               ]
@@ -6786,10 +6798,11 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Phantom"
             skill: 4
-            points: 51
+            points: 50
             slots: [       
                 "Talent"
                 "Sensor"
+                "Crew"
                 "Gunner"
                 "Modification"
               ]
@@ -6800,10 +6813,11 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Phantom"
             skill: 4
-            points: 48
+            points: 46
             slots: [       
                 "Talent"
                 "Sensor"
+                "Crew"
                 "Gunner"
                 "Modification"
               ]
@@ -6817,6 +6831,7 @@ exportObj.basicCardData = ->
             points: 43
             slots: [       
                 "Sensor"
+                "Crew"
                 "Gunner"
                 "Modification"
               ]
@@ -6828,7 +6843,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Bomber"
             skill: 4
-            points: 45
+            points: 36
             slots: [       
                 "Talent"
                 "Torpedo"
@@ -6866,7 +6881,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Bomber"
             skill: 5
-            points: 35
+            points: 34
             slots: [       
                 "Talent"
                 "Torpedo"
@@ -7068,7 +7083,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Fighter"
             skill: 5
-            points: 46
+            points: 40
             slots: [       
                 "Talent"
                 "Modification"
@@ -7082,7 +7097,7 @@ exportObj.basicCardData = ->
             ship: "TIE Fighter"
             skill: 4
             charge: 1
-            points: 41
+            points: 40
             slots: [       
                 "Talent"
                 "Modification"
@@ -7325,6 +7340,7 @@ exportObj.basicCardData = ->
                 "Tech"
                 "Torpedo"
                 "Missile"
+                "Modification"
             ]
         }
         {
@@ -7340,6 +7356,7 @@ exportObj.basicCardData = ->
                 "Tech"
                 "Torpedo"
                 "Missile"
+                "Modification"
             ]
         }
         {
@@ -7349,7 +7366,7 @@ exportObj.basicCardData = ->
             faction: "First Order"
             ship: "Upsilon-Class Command Shuttle"
             skill: 2
-            points: 70
+            points: 60
             slots: [
                 "Tech"
                 "Tech"
@@ -7368,7 +7385,7 @@ exportObj.basicCardData = ->
             faction: "Resistance"
             ship: "RZ-2 A-Wing"
             skill: 5
-            points: 43
+            points: 38
             slots: [
                 "Talent"
                 "Talent"
@@ -7385,7 +7402,7 @@ exportObj.basicCardData = ->
             skill: 5
             charge: 1
             recurring: true
-            points: 36
+            points: 35
             slots: [
                 "Talent"
                 "Talent"
@@ -7503,7 +7520,7 @@ exportObj.basicCardData = ->
             skill: 3
             charge: 1
             recurring: true
-            points: 30
+            points: 28
             slots: [
                 "Talent"
                 "Modification"
@@ -7906,7 +7923,7 @@ exportObj.basicCardData = ->
             ship: "Delta-7 Aethersprite"
             skill: 6
             force: 3
-            points: 62
+            points: 60
             slots: [
                 "Force"
                 "Astromech"
@@ -7985,7 +8002,7 @@ exportObj.basicCardData = ->
             ship: "Delta-7 Aethersprite"
             skill: 5
             force: 3
-            points: 48
+            points: 47
             slots: [
                 "Force"
                 "Astromech"
@@ -8120,6 +8137,7 @@ exportObj.basicCardData = ->
                 "Tech"
                 "Torpedo"
                 "Missile"
+                "Modification"
             ]
         }
         {
@@ -8134,6 +8152,7 @@ exportObj.basicCardData = ->
                 "Tech"
                 "Torpedo"
                 "Missile"
+                "Modification"
             ]
         }
         {
@@ -8142,7 +8161,7 @@ exportObj.basicCardData = ->
             faction: "First Order"
             ship: "Upsilon-Class Command Shuttle"
             skill: 2
-            points: 58
+            points: 56
             slots: [
                 "Tech"
                 "Tech"
@@ -8163,7 +8182,7 @@ exportObj.basicCardData = ->
             skill: 3
             charge: 2
             recurring: true
-            points: 64
+            points: 62
             slots: [
                 "Tech"
                 "Tech"
@@ -8184,6 +8203,7 @@ exportObj.basicCardData = ->
             skill: 0
             points: 30
             slots: [
+                "Talent"
                 "Tech"
                 "Modification"
             ]
@@ -8479,7 +8499,7 @@ exportObj.basicCardData = ->
             ship: "Belbullab-22 Starfighter"
             unique: true
             skill: 2
-            points: 45
+            points: 39
             slots: [
                 "Tactical Relay"
                 "Modification"
@@ -8870,7 +8890,7 @@ exportObj.basicCardData = ->
             skill: 3
             force: 3
             darkside: true
-            points: 63
+            points: 61
             slots: [
                 "Force"
                 "Cannon"
@@ -10052,7 +10072,7 @@ exportObj.basicCardData = ->
            name: '"Genius"'
            id: 1
            slot: "Astromech"
-           points: 2
+           points: 0
            unique: true
            faction: "Scum and Villainy"
        }
@@ -10060,7 +10080,7 @@ exportObj.basicCardData = ->
            name: "R2 Astromech"
            id: 2
            slot: "Astromech"
-           pointsarray: [3,5,7,9]
+           pointsarray: [3,3,4,4]
            variableagility: true
            charge: 2
        }
@@ -10069,7 +10089,7 @@ exportObj.basicCardData = ->
            id: 3
            unique: true
            slot: "Astromech"
-           pointsarray: [4,6,8,10]
+           pointsarray: [4,4,5,6]
            variableagility: true
            charge: 3
            faction: "Rebel Alliance"
@@ -10139,7 +10159,7 @@ exportObj.basicCardData = ->
            name: "Heavy Laser Cannon"
            id: 10
            slot: "Cannon"
-           points: 5
+           points: 4
            attackbull: 4
            range: """2-3"""
        }
@@ -10147,7 +10167,7 @@ exportObj.basicCardData = ->
            name: "Ion Cannon"
            id: 11
            slot: "Cannon"
-           points: 6
+           points: 5
            attack: 3
            range: """1-3"""
        }
@@ -10163,7 +10183,7 @@ exportObj.basicCardData = ->
            name: "Tractor Beam"
            id: 13
            slot: "Cannon"
-           points: 3
+           points: 2
            attack: 3
            range: """1-3"""
        }
@@ -10188,7 +10208,7 @@ exportObj.basicCardData = ->
            name: "Boba Fett"
            id: 16
            slot: "Crew"
-           points: 4
+           points: 0
            unique: true
            faction: "Scum and Villainy"
        }
@@ -10474,7 +10494,7 @@ exportObj.basicCardData = ->
            name: "Leia Organa"
            id: 46
            slot: "Crew"
-           points: 7
+           points: 0
            unique: true
            faction: "Rebel Alliance"
            charge: 3
@@ -10492,7 +10512,7 @@ exportObj.basicCardData = ->
            name: "Maul"
            id: 48
            slot: "Crew"
-           points: 12
+           points: 11
            unique: true
            faction: ["Scum and Villainy", "Rebel Alliance"]
            force: 1
@@ -10531,7 +10551,7 @@ exportObj.basicCardData = ->
            name: "Magva Yarro"
            id: 51
            slot: "Crew"
-           points: 8
+           points: 7
            unique: true
            faction: "Rebel Alliance"
        }
@@ -10581,7 +10601,7 @@ exportObj.basicCardData = ->
            slot: "Crew"
            canonical_name: 'r2d2-crew'
            xws: "r2d2-crew"
-           points: 10
+           points: 8
            unique: true
            faction: "Rebel Alliance"
        }
@@ -10597,7 +10617,7 @@ exportObj.basicCardData = ->
            name: "Saw Gerrera"
            id: 58
            slot: "Crew"
-           points: 9
+           points: 8
            unique: true
            faction: "Rebel Alliance"
        }
@@ -10605,7 +10625,7 @@ exportObj.basicCardData = ->
            name: "Seasoned Navigator"
            id: 59
            slot: "Crew"
-           pointsarray: [2,3,4,5,6,7,8,8,9]
+           pointsarray: [2,3,4,5,5,5,5,5,5]
            variableinit: true
        }
        {
@@ -10623,7 +10643,7 @@ exportObj.basicCardData = ->
            name: "Tactical Officer"
            id: 61
            slot: "Crew"
-           points: 6
+           points: 2
            restriction_func: (ship) ->
                 "Coordinate" in ship.effectiveStats().actionsred
            modifier_func: (stats) ->
@@ -10641,7 +10661,7 @@ exportObj.basicCardData = ->
            name: "0-0-0"
            id: 63
            slot: "Crew"
-           points: 5
+           points: 3
            unique: true
            faction: ["Scum and Villainy", "Galactic Empire"]
            restriction_func: (ship) ->
@@ -10737,7 +10757,7 @@ exportObj.basicCardData = ->
            name: "Supernatural Reflexes"
            id: 74
            slot: "Force"
-           pointsarray: [4,4,4,8,16,24,32]
+           pointsarray: [4,4,4,8,12,12,12]
            variableinit: true
            restriction_func: (ship) ->
                 not (ship.data.large? or ship.data.medium? or ship.data.huge?)
@@ -10811,7 +10831,7 @@ exportObj.basicCardData = ->
            name: "Fifth Brother"
            id: 82
            slot: "Gunner"
-           points: 11
+           points: 9
            force: 1
            unique: true
            faction: "Galactic Empire"
@@ -10833,7 +10853,7 @@ exportObj.basicCardData = ->
            id: 84
            slot: "Gunner"
            xws: "hansolo" 
-           points: 14
+           points: 12
            unique: true
            faction: "Rebel Alliance"
        }
@@ -10842,7 +10862,7 @@ exportObj.basicCardData = ->
            id: 85
            slot: "Gunner"
            xws: "hansolo-gunner"
-           points: 10
+           points: 4
            unique: true
            faction: "Scum and Villainy"
        }
@@ -10881,7 +10901,7 @@ exportObj.basicCardData = ->
            name: "Veteran Turret Gunner"
            id: 90
            slot: "Gunner"
-           points: 10
+           points: 6
            restriction_func: (ship) ->
                 "Rotate Arc" in ship.effectiveStats().actions or "Rotate Arc" in ship.effectiveStats().actionsred
        }
@@ -10918,7 +10938,7 @@ exportObj.basicCardData = ->
            name: "Inertial Dampeners"
            id: 95
            slot: "Illicit"
-           pointsarray: [0,1,2,3,4,5,6,7,8]
+           pointsarray: [0,1,1,1,1,1,1,1,1]
            variableinit: true
        }
        {
@@ -10934,7 +10954,7 @@ exportObj.basicCardData = ->
            name: "Barrage Rockets"
            id: 97
            slot: "Missile"
-           points: 8
+           points: 6
            attack: 3
            range: """2-3"""
            rangebonus: true 
@@ -10969,7 +10989,7 @@ exportObj.basicCardData = ->
            name: "Homing Missiles"
            id: 100
            slot: "Missile"
-           points: 5
+           points: 3
            attack: 4
            range: """2-3"""
            rangebonus: true 
@@ -10999,7 +11019,7 @@ exportObj.basicCardData = ->
            name: "Ablative Plating"
            id: 103
            slot: "Modification"
-           points: 6
+           points: 4
            charge: 2
            restriction_func: (ship) ->
                 ship.data.medium?  or ship.data.large?
@@ -11062,13 +11082,13 @@ exportObj.basicCardData = ->
            name: "Advanced Sensors"
            id: 111
            slot: "Sensor"
-           points: 10
+           points: 8
        }
        {
            name: "Collision Detector"
            id: 112
            slot: "Sensor"
-           points: 6
+           points: 5
            charge: 2
        }
        {
@@ -11081,7 +11101,7 @@ exportObj.basicCardData = ->
            name: "Trajectory Simulator"
            id: 114
            slot: "Sensor"
-           points: 6
+           points: 3
        }
        {
            name: "Composure"
@@ -11110,7 +11130,7 @@ exportObj.basicCardData = ->
            name: "Debris Gambit"
            id: 118
            slot: "Talent"
-           points: 4
+           points: 2
            restriction_func: (ship) ->
                 not (ship.data.large? or ship.data.huge?)
            modifier_func: (stats) ->
@@ -11153,7 +11173,7 @@ exportObj.basicCardData = ->
            name: "Juke"
            id: 123
            slot: "Talent"
-           points: 7
+           points: 4
            restriction_func: (ship) ->
                 not (ship.data.large? or ship.data.huge?)
        }
@@ -11161,7 +11181,7 @@ exportObj.basicCardData = ->
            name: "Lone Wolf"
            id: 124
            slot: "Talent"
-           points: 5
+           points: 4
            unique: true
            recurring: true
            charge: 1
@@ -11188,7 +11208,7 @@ exportObj.basicCardData = ->
            name: "Ruthless"
            id: 128
            slot: "Talent"
-           points: 1
+           points: 0
            faction: "Galactic Empire"
        }
        {
@@ -11210,7 +11230,7 @@ exportObj.basicCardData = ->
            name: "Squad Leader"
            id: 131
            slot: "Talent"
-           pointsarray: [2,4,6,8,10,12,14,16,18]
+           pointsarray: [2,4,4,4,4,4,4,4,4]
            variableinit: true
            unique: true
            modifier_func: (stats) ->
@@ -11221,14 +11241,14 @@ exportObj.basicCardData = ->
            name: "Swarm Tactics"
            id: 132
            slot: "Talent"
-           pointsarray: [3,3,3,3,3,4,5,6,7]
+           pointsarray: [3,3,3,3,3,3,3,3,3]
            variableinit: true
        }
        {
            name: "Trick Shot"
            id: 133
            slot: "Talent"
-           points: 4
+           points: 1
        }
        {
            name: "Adv. Proton Torpedoes"
@@ -11254,7 +11274,7 @@ exportObj.basicCardData = ->
            name: "Proton Torpedoes"
            id: 136
            slot: "Torpedo"
-           points: 13
+           points: 9
            attack: 4
            range: """2-3"""
            rangebonus: true 
@@ -11264,7 +11284,7 @@ exportObj.basicCardData = ->
            name: "Dorsal Turret"
            id: 137
            slot: "Turret"
-           points: 3
+           points: 2
            attackt: 2
            range: """1-2"""
            modifier_func: (stats) ->
@@ -11274,7 +11294,7 @@ exportObj.basicCardData = ->
            name: "Ion Cannon Turret"
            id: 138
            slot: "Turret"
-           points: 5
+           points: 4
            attackt: 3
            range: """1-2"""
            modifier_func: (stats) ->
@@ -11437,7 +11457,7 @@ exportObj.basicCardData = ->
            name: "Marauder"
            id: 153
            slot: "Title"
-           points: 6
+           points: 3
            unique: true
            faction: "Scum and Villainy"
            ship: "Firespray-31"
@@ -11480,7 +11500,7 @@ exportObj.basicCardData = ->
            name: "Moldy Crow"
            id: 156
            slot: "Title"
-           points: 18
+           points: 12
            unique: true
            ship: "HWK-290"
            modifier_func: (stats) ->
@@ -11674,7 +11694,7 @@ exportObj.basicCardData = ->
             name: "Targeting Synchronizer"
             id: 177
             slot: "Tech"
-            points: 6
+            points: 5
             restriction_func: (ship) ->
                 "Lock" in ship.effectiveStats().actions or "Lock" in ship.effectiveStats().actionsred
        }
@@ -11682,7 +11702,7 @@ exportObj.basicCardData = ->
             name: "Primed Thrusters"
             id: 178
             slot: "Tech"
-            pointsarray: [4,5,6,7,8,9,10,11,12]
+            pointsarray: [4,5,6,7,8,8,8,8,8]
             variableinit: true
             restriction_func: (ship) ->
                 not (ship.data.large? or ship.data.medium? or ship.data.huge?)
@@ -11753,7 +11773,7 @@ exportObj.basicCardData = ->
             id: 185
             slot: "Tech"
             faction: "First Order"
-            points: 10
+            points: 2
             restriction_func: (ship) ->
                 ship.data.large?
        }
@@ -11855,7 +11875,7 @@ exportObj.basicCardData = ->
             name: "BB Astromech"
             id: 196
             slot: "Astromech"
-            pointsarray: [0,1,2,3,4,5,6]
+            pointsarray: [0,1,2,3,4,5,5]
             variableinit: true
             charge: 2
             faction: "Resistance"
@@ -11879,7 +11899,8 @@ exportObj.basicCardData = ->
             name: "Brilliant Evasion"
             id: 199
             slot: "Force"
-            points: 3
+            pointsarray: [0,2,3,3]
+            variableagility: true
        }
        {
             name: "Calibrated Laser Targeting"
@@ -11896,7 +11917,7 @@ exportObj.basicCardData = ->
             id: 201
             slot: "Configuration"
             ship: "Delta-7 Aethersprite"
-            pointsarray: [14,15,16,17,18,19,20]
+            pointsarray: [12,13,14,15,16,17,18]
             variableinit: true
             modifier_func: (stats) ->
                 stats.attack += 1
@@ -11922,7 +11943,7 @@ exportObj.basicCardData = ->
             name: "Hate"
             id: 204
             slot: "Force"
-            pointsarray: [3,6,9]
+            pointsarray: [3,3,3]
             variablebase: true
             restriction_func: (ship) ->
                 ship.effectiveStats().darkside == true
@@ -11966,7 +11987,7 @@ exportObj.basicCardData = ->
             range: """2-3"""
             rangebonus: true 
             charge: 1
-            points: 5
+            points: 4
             restriction_func: (ship) ->
                 "Calculate" in ship.effectiveStats().actions or "Calculate" in ship.effectiveStats().actionsred
        }
@@ -12061,7 +12082,7 @@ exportObj.basicCardData = ->
             slot: "Crew"
             force: 1
             faction: "Separatist Alliance"
-            points: 10
+            points: 9
             modifier_func: (stats) ->
                 stats.force += 1
        }
@@ -12129,7 +12150,7 @@ exportObj.basicCardData = ->
             unique: true
             slot: "Gunner"
             faction: "Galactic Republic"
-            points: 4
+            points: 3
        }
        {
             name: "R4-P44"
@@ -12191,7 +12212,7 @@ exportObj.basicCardData = ->
            name: "Autoblasters"
            id: 232
            slot: "Cannon"
-           points: 3
+           points: 2
            attack: 2
            range: """1-2"""
        }
@@ -12262,7 +12283,7 @@ exportObj.basicCardData = ->
             slot: "Tactical Relay"
             solitary: true
             faction: "Separatist Alliance"
-            points: 9
+            points: 5
        }
        {
             name: "Passive Sensors"
@@ -12346,7 +12367,7 @@ exportObj.basicCardData = ->
             name: "Ensnare"
             id: 248
             slot: "Talent"
-            pointsarray: [12,12,12,12,14,21,28]
+            pointsarray: [10,10,10,10,10,16,24]
             variableinit: true
             ship: "Nantex-Class Starfighter"
        }
@@ -13283,4454 +13304,6 @@ exportObj.basicCardData = ->
                 "Shield Upgrade"
             ]
         }
-        {
-            id: 1
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Ace"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 2
-            faction: "Galactic Empire"
-            pilot: "Academy Pilot"
-            ship: "TIE Fighter"
-            threat: 1
-        }
-        {
-            id: 3
-            faction: "Galactic Empire"
-            pilot: "Iden Versio"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 4
-            faction: "Galactic Empire"
-            pilot: '"Night Beast"'
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Hull Upgrade"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 5
-            faction: "Galactic Empire"
-            pilot: "Obsidian Squadron Pilot"
-            ship: "TIE Fighter"
-            threat: 1
-        }
-        {
-            id: 6
-            faction: "Galactic Empire"
-            pilot: '"Scourge" Skutu'
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 7
-            faction: "Galactic Empire"
-            pilot: '"Wampa"'
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Hull Upgrade"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 8
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Ace"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 9
-            faction: "Galactic Empire"
-            pilot: "Gideon Hask"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 10
-            faction: "Galactic Empire"
-            pilot: "Del Meeko"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 11
-            faction: "Galactic Empire"
-            pilot: "Obsidian Squadron Pilot"
-            ship: "TIE Fighter"
-            threat: 1
-            skip: true
-        }
-        {
-            id: 12
-            faction: "Galactic Empire"
-            pilot: '"Howlrunner"'
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 13
-            faction: "Galactic Empire"
-            pilot: "Seyn Marana"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Marksmanship"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 14
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Ace"
-            suffix: " (x2)"
-            linkedId: 14
-            ship: "TIE Fighter"
-            threat: 3
-            upgrades: [
-                "Juke"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 15
-            faction: "Galactic Empire"
-            pilot: "Obsidian Squadron Pilot"
-            suffix: " (x2)"
-            linkedId: 15
-            ship: "TIE Fighter"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 16
-            faction: "Galactic Empire"
-            pilot: "Academy Pilot"
-            suffix: " (x2)"
-            linkedId: 16
-            ship: "TIE Fighter"
-            threat: 2
-        }
-        {
-            id: 17
-            faction: "Galactic Empire"
-            pilot: "Academy Pilot"
-            ship: "TIE Fighter"
-            threat: 1
-            skip: true
-        }
-        {
-            id: 18
-            faction: "Galactic Empire"
-            pilot: "Darth Vader"
-            ship: "TIE Advanced"
-            threat: 4
-            upgrades: [
-                "Supernatural Reflexes"
-                "Fire-Control System"
-                "Afterburners"
-                "Shield Upgrade"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 19
-            faction: "Galactic Empire"
-            pilot: "Maarek Stele"
-            ship: "TIE Advanced"
-            threat: 3
-            upgrades: [
-                "Ruthless"
-                "Fire-Control System"
-                "Cluster Missiles"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 20
-            faction: "Galactic Empire"
-            pilot: "Storm Squadron Ace"
-            ship: "TIE Advanced"
-            threat: 2
-            upgrades: [
-                "Fire-Control System"
-            ]
-        }
-        {
-            id: 21
-            faction: "Galactic Empire"
-            pilot: "Ved Foslo"
-            ship: "TIE Advanced"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Fire-Control System"
-                "Cluster Missiles"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 22
-            faction: "Galactic Empire"
-            pilot: "Zertik Strom"
-            ship: "TIE Advanced"
-            threat: 3
-            upgrades: [
-                "Squad Leader"
-                "Fire-Control System"
-                "Cluster Missiles"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 23
-            faction: "Galactic Empire"
-            pilot: "Tempest Squadron Pilot"
-            ship: "TIE Advanced"
-            threat: 2
-            upgrades: [
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 24
-            faction: "Galactic Empire"
-            pilot: "Colonel Jendon"
-            ship: "Lambda-Class Shuttle"
-            threat: 3
-            upgrades: [
-                "Collision Detector"
-                "Ion Cannon"
-                "Darth Vader"
-                "Freelance Slicer"
-                "ST-321"
-            ]
-        }
-        {
-            id: 25
-            faction: "Galactic Empire"
-            pilot: "Captain Kagi"
-            ship: "Lambda-Class Shuttle"
-            threat: 3
-            upgrades: [
-                "Collision Detector"
-                "Tractor Beam"
-                "Emperor Palpatine"
-                "Shield Upgrade"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 26
-            faction: "Galactic Empire"
-            pilot: "Lieutenant Sai"
-            ship: "Lambda-Class Shuttle"
-            threat: 3
-            upgrades: [
-                "Ciena Ree"
-                'GNK "Gonk" Droid'
-                "Advanced Sensors"
-                "Jamming Beam"
-            ]
-        }
-        {
-            id: 27
-            faction: "Galactic Empire"
-            pilot: "Omicron Group Pilot"
-            ship: "Lambda-Class Shuttle"
-            threat: 2
-            upgrades: [
-                "Admiral Sloane"
-                "Jamming Beam"
-            ]
-        }
-        {
-            id: 28
-            faction: "Galactic Empire"
-            pilot: "Lieutenant Kestal"
-            ship: "TIE Aggressor"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Barrage Rockets"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 29
-            faction: "Galactic Empire"
-            pilot: "Onyx Squadron Scout"
-            ship: "TIE Aggressor"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Dorsal Turret"
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 30
-            faction: "Galactic Empire"
-            pilot: '"Double Edge"'
-            ship: "TIE Aggressor"
-            threat: 2
-            upgrades: [
-                "Ion Cannon Turret"
-                "Concussion Missiles"
-                "Hotshot Gunner"
-            ]
-        }
-        {
-            id: 31
-            faction: "Galactic Empire"
-            pilot: "Sienar Specialist"
-            ship: "TIE Aggressor"
-            threat: 2
-            upgrades: [
-                "Ion Cannon Turret"
-                "Homing Missiles"
-                "Veteran Turret Gunner"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 32
-            faction: "Galactic Empire"
-            pilot: '"Whisper"'
-            ship: "TIE Phantom"
-            threat: 3
-            upgrades: [
-                "Juke"
-                "Advanced Sensors"
-                "Agent Kallus"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 33
-            faction: "Galactic Empire"
-            pilot: "Sigma Squadron Ace"
-            ship: "TIE Phantom"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Advanced Sensors"
-                "Grand Inquisitor"
-            ]
-        }
-        {
-            id: 34
-            faction: "Galactic Empire"
-            pilot: '"Echo"'
-            ship: "TIE Phantom"
-            threat: 3
-            upgrades: [
-                "Lone Wolf"
-                "Collision Detector"
-                "Perceptive Copilot"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 35
-            faction: "Galactic Empire"
-            pilot: "Imdaar Test Pilot"
-            ship: "TIE Phantom"
-            threat: 2
-            upgrades: [
-                "Moff Jerjerrod"
-            ]
-        }
-        {
-            id: 36
-            faction: "Galactic Empire"
-            pilot: '"Duchess"'
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Trick Shot"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 37
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Scout"
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Skilled Bombardier"
-                "Proximity Mines"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 38
-            faction: "Galactic Empire"
-            pilot: '"Countdown"'
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 39
-            faction: "Galactic Empire"
-            pilot: "Planetary Sentinel"
-            suffix: " x2"
-            linkedId: 39
-            ship: "TIE Striker"
-            threat: 3
-            upgrades: [
-                "Conner Nets"
-            ]
-        }
-        {
-            id: 40
-            faction: "Galactic Empire"
-            pilot: '"Pure Sabacc"'
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 41
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Scout"
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Skilled Bombardier"
-                "Proximity Mines"
-                "Hull Upgrade"
-            ]
-            skip: true
-        }
-        {
-            id: 42
-            faction: "Galactic Empire"
-            pilot: "Countess Ryad"
-            ship: "TIE Defender"
-            threat: 4
-            upgrades: [
-                "Outmaneuver"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 43
-            faction: "Galactic Empire"
-            pilot: "Onyx Squadron Ace"
-            ship: "TIE Defender"
-            threat: 3
-        }
-        {
-            id: 44
-            faction: "Galactic Empire"
-            pilot: "Rexler Brath"
-            ship: "TIE Defender"
-            threat: 4
-            upgrades: [
-                "Juke"
-                "Collision Detector"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 45
-            faction: "Galactic Empire"
-            pilot: "Colonel Vessery"
-            ship: "TIE Defender"
-            threat: 4
-            upgrades: [
-                "Juke"
-                "Fire-Control System"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 46
-            faction: "Galactic Empire"
-            pilot: "Onyx Squadron Ace"
-            ship: "TIE Defender"
-            threat: 4
-            upgrades: [
-                "Elusive"
-                "Advanced Sensors"
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 47
-            faction: "Galactic Empire"
-            pilot: "Tomax Bren"
-            ship: "TIE Bomber"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Proton Torpedoes"
-                "Proton Bombs"
-            ]
-        }
-        {
-            id: 48
-            faction: "Galactic Empire"
-            pilot: '"Deathfire"'
-            ship: "TIE Bomber"
-            threat: 2
-            upgrades: [
-                "Cluster Missiles"
-                "Skilled Bombardier"
-                "Seismic Charges"
-                "Proximity Mines"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 49
-            faction: "Galactic Empire"
-            pilot: "Major Rhymer"
-            ship: "TIE Bomber"
-            threat: 2
-            upgrades: [
-                "Intimidation"
-                "Adv. Proton Torpedoes"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 50
-            faction: "Galactic Empire"
-            pilot: "Scimitar Squadron Pilot"
-            suffix: " x2"
-            linkedId: 50
-            ship: "TIE Bomber"
-            threat: 3
-            upgrades: [
-                "Ion Missiles"
-                "Proton Bombs"
-            ]
-        }
-        {
-            id: 51
-            faction: "Galactic Empire"
-            pilot: "Captain Jonus"
-            ship: "TIE Bomber"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 52
-            faction: "Galactic Empire"
-            pilot: "Gamma Squadron Ace"
-            ship: "TIE Bomber"
-            threat: 2
-            upgrades: [
-                "Concussion Missiles"
-                "Skilled Bombardier"
-                "Bomblet Generator"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 53
-            faction: "Galactic Empire"
-            pilot: "Grand Inquisitor"
-            ship: "TIE Advanced Prototype"
-            threat: 3
-            upgrades: [
-                "Supernatural Reflexes"
-                "Concussion Missiles"
-            ]
-        }
-        {
-            id: 54
-            faction: "Galactic Empire"
-            pilot: "Inquisitor"
-            ship: "TIE Advanced Prototype"
-            threat: 2
-            upgrades: [
-                "Instinctive Aim"
-                "Cluster Missiles"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 55
-            faction: "Galactic Empire"
-            pilot: "Seventh Sister"
-            ship: "TIE Advanced Prototype"
-            threat: 2
-            upgrades: [
-                "Homing Missiles"
-            ]
-        }
-        {
-            id: 56
-            faction: "Galactic Empire"
-            pilot: "Baron of the Empire"
-            ship: "TIE Advanced Prototype"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Proton Rockets"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 57
-            faction: "Galactic Empire"
-            pilot: "Soontir Fel"
-            ship: "TIE Interceptor"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Afterburners"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 58
-            faction: "Galactic Empire"
-            pilot: "Alpha Squadron Pilot"
-            suffix: " x2"
-            linkedId: 58
-            ship: "TIE Interceptor"
-            threat: 3
-            upgrades: [
-                "Ablative Plating"
-            ]
-        }
-        {
-            id: 59
-            faction: "Galactic Empire"
-            pilot: "Turr Phennir"
-            ship: "TIE Interceptor"
-            threat: 2
-            upgrades: [
-                "Daredevil"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 60
-            faction: "Galactic Empire"
-            pilot: "Saber Squadron Ace"
-            ship: "TIE Interceptor"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 61
-            faction: "Galactic Empire"
-            pilot: "Lieutenant Karsabi"
-            ship: "Alpha-Class Star Wing"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Heavy Laser Cannon"
-                "Advanced SLAM"
-                "Xg-1 Assault Configuration"
-            ]
-        }
-        {
-            id: 62
-            faction: "Galactic Empire"
-            pilot: "Nu Squadron Pilot"
-            ship: "Alpha-Class Star Wing"
-            threat: 2
-            upgrades: [
-                "Fire-Control System"
-                "Proton Torpedos"
-                "Advanced SLAM"
-                "Os-1 Arsenal Loadout"
-            ]
-        }
-        {
-            id: 63
-            faction: "Galactic Empire"
-            pilot: "Major Vynder"
-            ship: "Alpha-Class Star Wing"
-            threat: 2
-            upgrades: [
-                "Saturation Salvo"
-                "Barrage Rockets"
-                "Advanced SLAM"
-                "Os-1 Arsenal Loadout"
-            ]
-        }
-        {
-            id: 64
-            faction: "Galactic Empire"
-            pilot: "Rho Squadron Pilot"
-            ship: "Alpha-Class Star Wing"
-            threat: 2
-            upgrades: [
-                "Fire-Control System"
-                "Ion Cannon"
-                "Homing Missiles"
-                "Advanced SLAM"
-                "Xg-1 Assault Configuration"
-            ]
-        }
-        {
-            id: 65
-            faction: "Galactic Empire"
-            pilot: '"Deathrain"'
-            ship: "TIE Punisher"
-            threat: 2
-            upgrades: [
-                "Trajectory Simulator"
-                "Homing Missiles"
-                "Bomblet Generator"
-                "Ablative Plating"
-            ]
-        }
-        {
-            id: 66
-            skip: true
-            faction: "Galactic Empire"
-            pilot: '"Deathrain"'
-            ship: "TIE Punisher"
-            threat: 2
-            upgrades: [
-                "Trajectory Simulator"
-                "Homing Missiles"
-                "Bomblet Generator"
-                "Ablative Plating"
-            ]
-        }
-        {
-            id: 67
-            faction: "Galactic Empire"
-            pilot: "Cutlass Squadron Pilot"
-            ship: "TIE Punisher"
-            threat: 2
-            upgrades: [
-                "Trajectory Simulator"
-                "Ion Missiles"
-                "Skilled Bombardier"
-                "Proton Bombs"
-            ]
-        }
-        {
-            id: 68
-            faction: "Galactic Empire"
-            pilot: '"Redline"'
-            ship: "TIE Punisher"
-            threat: 2
-            upgrades: [
-                "Debris Gambit"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 69
-            faction: "Galactic Empire"
-            pilot: "Cutlass Squadron Pilot"
-            ship: "TIE Punisher"
-            threat: 2
-            upgrades: [
-                "Advanced Sensors"
-                "Proton Rockets"
-                "Conner Nets"
-            ]
-        }
-        {
-            id: 70
-            faction: "Galactic Empire"
-            pilot: "Captain Oicunn"
-            ship: "VT-49 Decimator"
-            threat: 4
-            upgrades: [
-                "Intimidation"
-                "Grand Moff Tarkin"
-                "Dauntless"
-            ]
-        }
-        {
-            id: 71
-            faction: "Galactic Empire"
-            pilot: "Rear Admiral Chiraneau"
-            ship: "VT-49 Decimator"
-            threat: 4
-            upgrades: [
-                "Swarm Tactics"
-                "Minister Tua"
-                "Tactical Officer"
-            ]
-        }
-        {
-            id: 72
-            faction: "Galactic Empire"
-            pilot: "Patrol Leader"
-            ship: "VT-49 Decimator"
-            threat: 4
-            upgrades: [
-                "Informant"
-                "Seventh Sister"
-                "Fifth Brother"
-            ]
-        }
-        {
-            id: 73
-            faction: "Galactic Empire"
-            pilot: '"Vizier"'
-            ship: "TIE Reaper"
-            threat: 2
-            upgrades: [
-                "Director Krennic"
-            ]
-        }
-        {
-            id: 74
-            faction: "Galactic Empire"
-            pilot: "Scarif Base Pilot"
-            ship: "TIE Reaper"
-            threat: 2
-            upgrades: [
-                "Death Troopers"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 75
-            faction: "Galactic Empire"
-            pilot: "Major Vermeil"
-            ship: "TIE Reaper"
-            threat: 2
-            upgrades: [
-                "Swarm Tactics"
-                "Tactical Officer"
-            ]
-        }
-        {
-            id: 76
-            faction: "Galactic Empire"
-            pilot: "Captain Feroph"
-            ship: "TIE Reaper"
-            threat: 2
-            upgrades: [
-                "Swarm Tactics"
-                "ISB Slicer"
-            ]
-        }
-        {
-            id: 77
-            faction: "Rebel Alliance"
-            pilot: "Luke Skywalker"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Instinctive Aim"
-                "Proton Torpedoes"
-                "R2-D2"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 78
-            faction: "Rebel Alliance"
-            pilot: "Red Squadron Veteran"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "R5 Astromech"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 79
-            faction: "Rebel Alliance"
-            pilot: "Jek Porkins"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "R5-D8"
-                "Afterburners"
-                "Hull Upgrade"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 80
-            faction: "Rebel Alliance"
-            pilot: "Blue Squadron Escort"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "R3 Astromech"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 81
-            faction: "Rebel Alliance"
-            pilot: "Wedge Antilles"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Proton Torpedoes"
-                "R4 Astromech"
-                "Shield Upgrade"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 82
-            faction: "Rebel Alliance"
-            pilot: "Biggs Darklighter"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Selfless"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 83
-            faction: "Rebel Alliance"
-            pilot: "Thane Kyrell"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Ion Torpedoes"
-                "R2 Astromech"
-                "Afterburners"
-                "Hull Upgrade"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 84
-            faction: "Rebel Alliance"
-            pilot: "Garven Dreis (X-Wing)"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 85
-            faction: "Rebel Alliance"
-            pilot: "Norra Wexley (Y-Wing)"
-            ship: "Y-Wing"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Ion Cannon Turret"
-                "Veterna Turret Gunner"
-                "R3 Astromech"
-            ]
-        }
-        {
-            id: 86
-            faction: "Rebel Alliance"
-            pilot: "Evaan Verlaine"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "Ion Cannon Turret"
-            ]
-        }
-        {
-            id: 87
-            faction: "Rebel Alliance"
-            pilot: "Gold Squadron Veteran"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "Proton Torpedoes"
-                "R3 Astromech"
-            ]
-        }
-        {
-            id: 88
-            faction: "Rebel Alliance"
-            pilot: "Horton Salm"
-            ship: "Y-Wing"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Ion Cannon Turret"
-                "Veteran Turret Gunner"
-                "R5 Astromech"
-            ]
-        }
-        {
-            id: 89
-            faction: "Rebel Alliance"
-            pilot: '"Dutch" Vander'
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "R3 Astromech"
-            ]
-        }
-        {
-            id: 90
-            faction: "Rebel Alliance"
-            pilot: "Gray Squadron Bomber"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Ion Cannon Turret"
-                "Proton Bomb"
-                "R5 Astromech"
-            ]
-        }
-        {
-            id: 91
-            faction: "Rebel Alliance"
-            pilot: "Esege Tuketu"
-            ship: "K-Wing"
-            threat: 3
-            upgrades: [
-                "Trajectory Simulator"
-                "Ion Missiles"
-                "Perceptive Copilot"
-                "Conner Nets"
-                "Proton Bombs"
-                "Advanced SLAM"
-            ]
-        }
-        {
-            id: 92
-            faction: "Rebel Alliance"
-            pilot: "Miranda Doni"
-            ship: "K-Wing"
-            threat: 2
-            upgrades: [
-                "Proton Bombs"
-                "Advanced SLAM"
-            ]
-        }
-        {
-            id: 93
-            faction: "Rebel Alliance"
-            pilot: "Warden Squadron Pilot"
-            ship: "K-Wing"
-            threat: 2
-            upgrades: [
-                "Barrage Rocktes"
-                "Bomblet Generator"
-            ]
-        }
-        {
-            id: 94
-            faction: "Rebel Alliance"
-            pilot: "Braylen Stramm"
-            ship: "B-Wing"
-            threat: 2
-            upgrades: [
-                "Trick Shot"
-                "Jamming Beam"
-            ]
-        }
-        {
-            id: 95
-            faction: "Rebel Alliance"
-            pilot: "Blade Squadron Veteran"
-            ship: "B-Wing"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Tractor Beam"
-            ]
-        }
-        {
-            id: 96
-            faction: "Rebel Alliance"
-            pilot: "Ten Numb"
-            ship: "B-Wing"
-            threat: 3
-            upgrades: [
-                "Squad Leader"
-                "Advanced Sensors"
-                "Heavy Laser Cannon"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 97
-            faction: "Rebel Alliance"
-            pilot: "Blue Squadron Pilot"
-            ship: "B-Wing"
-            threat: 2
-            upgrades: [
-                "Advanced Sensors"
-            ]
-        }
-        {
-            id: 98
-            faction: "Rebel Alliance"
-            pilot: "Norra Wexley"
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Seasoned Navigator"
-                "Veteran Tail Gunner"
-                "R3 Astromech"
-                "Ablative Plating"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 99
-            faction: "Rebel Alliance"
-            pilot: "Garven Dreis"
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Proton Torpedoes"
-                "Perceptive Copilot"
-                "Veteran Tail Gunner"
-            ]
-        }
-        {
-            id: 100
-            faction: "Rebel Alliance"
-            pilot: "Shara Bey"
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Proton Torpedoes"
-                "Perceptive Copilot"
-                "R3 Astromech"
-            ]
-        }
-        {
-            id: 101
-            faction: "Rebel Alliance"
-            pilot: "Ibtisam"
-            ship: "ARC-170"
-            threat: 2
-            upgrades: [
-                "Elusive"
-            ]
-        }
-        {
-            id: 102
-            faction: "Rebel Alliance"
-            pilot: "Wullffwarro"
-            ship: "Auzituck Gunship"
-            threat: 3
-            upgrades: [
-                "Selfless"
-                'GNK "Gonk" Droid'
-                "Novice Technician"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 103
-            faction: "Rebel Alliance"
-            pilot: "Lowhhrick"
-            ship: "Auzituck Gunship"
-            threat: 2
-        }
-        {
-            id: 104
-            faction: "Rebel Alliance"
-            pilot: "Kashyyyk Defender"
-            ship: "Auzituck Gunship"
-            threat: 2
-            upgrades: [
-                "Novice Technician"
-            ]
-        }
-        {
-            id: 105
-            skip: true
-        }
-        {
-            id: 106
-            faction: "Rebel Alliance"
-            pilot: "Corran Horn"
-            ship: "E-Wing"
-            threat: 4
-            upgrades: [
-                "Outmaneuver"
-                "Fire-Control System"
-                "Proton Torpedoes"
-                "R2 Astromech"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 107
-            faction: "Rebel Alliance"
-            pilot: "Rogue Squadron Escort"
-            ship: "E-Wing"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Collision Detector"
-                "Proton Torpedoes"
-                "R3 Astromech"
-            ]
-        }
-        {
-            id: 108
-            faction: "Rebel Alliance"
-            pilot: "Gavin Darklighter"
-            ship: "E-Wing"
-            threat: 3
-            upgrades: [
-                "Crack Shot"
-                "Fire-Control System"
-                "Ion Torpedoes"
-                "R4 Astromech"
-            ]
-        }
-        {
-            id: 109
-            faction: "Rebel Alliance"
-            pilot: "Knave Squadron Escort"
-            ship: "E-Wing"
-            threat: 2
-        }
-        {
-            id: 110
-            faction: "Rebel Alliance"
-            pilot: "Jan Ors"
-            ship: "HWK-290"
-            threat: 3
-            upgrades: [
-                "Trick Shot"
-                "Perceptive Copilot"
-                "Seismic Charges"
-                "Cloaking Device"
-                "Engine Upgrade"
-                "Moldy Crow"
-            ]
-        }
-        {
-            id: 111
-            faction: "Rebel Alliance"
-            pilot: "Roark Garnet"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Seismic Charges"
-                "Hull Upgrade"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 112
-            faction: "Rebel Alliance"
-            pilot: "Kyle Katarn"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Moldy Crow"
-            ]
-        }
-        {
-            id: 113
-            faction: "Rebel Alliance"
-            pilot: "Rebel Scout"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Proton Bombs"
-                "Seismic Charges"
-                "Sabine Wren"
-                "Engine Upgrade"
-            ]
-        }
-        {
-            id: 114
-            faction: "Rebel Alliance"
-            pilot: "Arvel Crynyd"
-            ship: "A-Wing"
-            threat: 2
-            upgrades: [
-                "Intimidation"
-                "Proton Rockets"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 115
-            faction: "Rebel Alliance"
-            pilot: "Green Squadron Pilot"
-            ship: "A-Wing"
-            threat: 2
-            upgrades: [
-                "Daredevil"
-                "Concussion Missiles"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 116
-            faction: "Jake Farrell"
-            pilot: "Green Squadron Pilot"
-            ship: "A-Wing"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Cluster Missiles"
-            ]
-        }
-        {
-            id: 117
-            faction: "Rebel Alliance"
-            pilot: "Phoenix Squadron Pilot"
-            suffix: " x2"
-            linkedId: 117
-            ship: "A-Wing"
-            threat: 3
-            upgrades: [
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 118
-            faction: "Rebel Alliance"
-            pilot: "Fenn Rau (Sheathipede)"
-            ship: "Sheathipede-Class Shuttle"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Seasoned Navigator"
-                "R4 Astromech"
-                "Stealth Device"
-                "Phantom"
-            ]
-        }
-        {
-            id: 119
-            faction: "Rebel Alliance"
-            pilot: "Ezra Bridger (Sheathipede)"
-            ship: "Sheathipede-Class Shuttle"
-            threat: 2
-            upgrades: [
-                "Heightened Perception"
-                '"Chopper" (Astromech)'
-                "Afterburners"
-                "Phantom"
-            ]
-        }
-        {
-            id: 120
-            faction: "Rebel Alliance"
-            pilot: "Captain Rex"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Juke"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 121
-            faction: "Rebel Alliance"
-            pilot: "Sabine Wren (TIE Fighter)"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Conner Nets"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 122
-            faction: "Rebel Alliance"
-            pilot: "Ezra Bridger (TIE Fighter)"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Supernatural Reflexes"
-                """"Zeb" Orrelios"""
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 123
-            faction: "Rebel Alliance"
-            pilot: '"Zeb" Orrelios (TIE Fighter)'
-            ship: "TIE Fighter"
-            threat: 1
-        }
-        {
-            id: 124
-            faction: "Rebel Alliance"
-            pilot: "Cassian Andor"
-            ship: "U-Wing"
-            threat: 3
-            upgrades: [
-                "Fire-Control System"
-                "Jyn Erso"
-                "Baze Malbus"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 125
-            faction: "Rebel Alliance"
-            pilot: "Bodhi Rook"
-            ship: "U-Wing"
-            threat: 2
-            upgrades: [
-                "Cassian Andor"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 126
-            faction: "Rebel Alliance"
-            pilot: "Heff Tobber"
-            ship: "U-Wing"
-            threat: 3
-            upgrades: [
-                "Fire-Control System"
-                "Ion Cannon Turret"
-                "Bistan"
-                "Perceptive Copilot"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 127
-            faction: "Rebel Alliance"
-            pilot: "Blue Squadron Scout"
-            ship: "U-Wing"
-            threat: 2
-            upgrades: [
-                "Advanced Sensors"
-                "Tactical Officer"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 128
-            faction: "Rebel Alliance"
-            pilot: "Han Solo"
-            ship: "YT-1300"
-            threat: 4
-            upgrades: [
-                "Lone Wolf"
-                "Chewbacca"
-                "Millennium Falcon"
-            ]
-        }
-        {
-            id: 129
-            faction: "Rebel Alliance"
-            pilot: "Chewbacca"
-            ship: "YT-1300"
-            threat: 6
-            upgrades: [
-                "Predator"
-                "C-3PO"
-                "Leia Organa"
-                "R2-D2"
-                "Han Solo"
-                "Luke Skywalker"
-                "Engine Upgrade"
-                "Millennium Falcon"
-            ]
-        }
-        {
-            id: 130
-            faction: "Rebel Alliance"
-            pilot: "Lando Calrissian"
-            ship: "YT-1300"
-            threat: 5
-            upgrades: [
-                "Swarm Tactics"
-                "Concussion Missiles"
-                "Nien Nunb"
-                "Engine Upgrade"
-                "Millennium Falcon"
-            ]
-        }
-        {
-            id: 131
-            faction: "Rebel Alliance"
-            pilot: "Outer Rim Smuggler"
-            ship: "YT-1300"
-            threat: 4
-            upgrades: [
-                "Homing Missiles"
-                "Novice Technician"
-                "Veteran Turret Gunner"
-                "Feedback Array"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 132
-            faction: "Rebel Alliance"
-            pilot: "Airen Cracken"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Swarm Tactics"
-                "Cluster Missiles"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 133
-            faction: "Rebel Alliance"
-            pilot: "Bandit Squadron Pilot"
-            ship: "Z-95 Headhunter"
-            threat: 1
-        }
-        {
-            id: 134
-            faction: "Rebel Alliance"
-            pilot: "Lieutenant Blount"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Proton Rockets"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 135
-            faction: "Rebel Alliance"
-            pilot: "Tala Squadron Pilot"
-            ship: "Z-95 Headhunter"
-            threat: 1
-            upgrades: [
-                "Selfless"
-            ]
-        }
-        {
-            id: 136
-            faction: "Rebel Alliance"
-            pilot: "Hera Syndulla"
-            ship: "Attack Shuttle"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Ion Cannon Turret"
-                "Phantom"
-            ]
-        }
-        {
-            id: 137
-            faction: "Rebel Alliance"
-            pilot: "Sabine Wren"
-            ship: "Attack Shuttle"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Dorsal Turret"
-                "Phantom"
-            ]
-        }
-        {
-            id: 138
-            faction: "Rebel Alliance"
-            pilot: "Dash Rendar"
-            ship: "YT-2400"
-            threat: 5
-            upgrades: [
-                "Expert Handling"
-                "Trick Shot"
-                "Perceptive Copilot"
-                "Rigged Cargo Chute"
-                "Outrider"
-            ]
-        }
-        {
-            id: 139
-            faction: "Rebel Alliance"
-            pilot: '"Leebo"'
-            ship: "YT-2400"
-            threat: 4
-            upgrades: [
-                "Outrider"
-                "Inertial Dampeners"
-            ]
-        }
-        {
-            id: 140
-            faction: "Rebel Alliance"
-            pilot: "Wild Space Fringer"
-            ship: "YT-2400"
-            threat: 4
-            upgrades: [
-                "Concussion Missiles"
-                "Veteran Turret Gunner"
-                "Contraband Cybernetics"
-            ]
-        }
-        {
-            id: 141
-            faction: "Rebel Alliance"
-            pilot: "Magva Yarro"
-            ship: "U-Wing"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Saw Gerrera"
-                "Advanced Sensors"
-                "Shield Upgrade"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 142
-            faction: "Rebel Alliance"
-            pilot: "Saw Gerrera"
-            ship: "U-Wing"
-            threat: 2
-            upgrades: [
-                "Magva Yarro"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 143
-            faction: "Rebel Alliance"
-            pilot: "Benthic Two Tubes"
-            ship: "U-Wing"
-            threat: 2
-            upgrades: [
-                "Advanced Sensors"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 144
-            faction: "Rebel Alliance"
-            pilot: "Partisan Renegade"
-            ship: "U-Wing"
-            threat: 2
-            upgrades: [
-                "Advanced Sensors"
-                "Deadman's Switch"
-                "Pivot Wing"
-            ]
-        }
-        {
-            id: 145
-            faction: "Rebel Alliance"
-            pilot: "Kullbee Sperado"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "R2 Astromech"
-                "Deadman's Switch"
-                "Afterburners"
-                "Hull Upgrade"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 146
-            faction: "Rebel Alliance"
-            pilot: "Edrio Two Tubes"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Trick Shot"
-                "R4 Astromech"
-                "Deadman's Switch"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 147
-            faction: "Rebel Alliance"
-            pilot: "Leevan Tenza"
-            ship: "X-Wing"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "R2 Astromech"
-                "Deadman's Switch"
-                "Afterburners"
-                "Shield Upgrade"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 148
-            faction: "Rebel Alliance"
-            pilot: "Cavern Angels Zealot"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "R2 Astromech"
-                "Deadman's Switch"
-                "Servomotor S-Foils"
-            ]
-        }
-        {
-            id: 149
-            faction: "Rebel Alliance"
-            pilot: "Kanan Jarrus"
-            suffix: " + Phantom"
-            linkedId: 150
-            ship: "VCX-100"
-            threat: 6
-            upgrades: [
-                "Ion Cannon Turret"
-                "Hera Syndulla"
-                '"Chopper" (Crew)'
-                "Ezra Bridger"
-                "Ghost"
-            ]
-        }
-        {
-            id: 150
-            faction: "Rebel Alliance"
-            pilot: '"Zeb" Orrelios'
-            suffix: " + Ghost"
-            linkedId: 149
-            ship: "Attack Shuttle"
-            threat: 6
-            upgrades: [
-                "Phantom"
-            ]
-        }
-        {
-            id: 151
-            faction: "Rebel Alliance"
-            pilot: "Hera Syndulla (VCX-100)"
-            suffix: " + Phantom"
-            linkedId: 152
-            ship: "VCX-100"
-            threat: 6
-            upgrades: [
-                "Elusive"
-                "Dorsal Turret"
-                "Kanan Jarrus"
-                "Ghost"
-            ]
-        }
-        {
-            id: 152
-            faction: "Rebel Alliance"
-            pilot: "Ezra Bridger"
-            suffix: " + Ghost"
-            linkedId: 151
-            ship: "Attack Shuttle"
-            threat: 6
-            upgrades: [
-                "Supernatural Reflexes"
-                "Dorsal Turret"
-                "Phantom"
-            ]
-        }
-        {
-            id: 153
-            faction: "Rebel Alliance"
-            pilot: '"Chopper"'
-            suffix: " + Phantom"
-            linkedId: 154
-            ship: "VCX-100"
-            threat: 6
-            upgrades: [
-                "Ion Cannon Turret"
-                '"Zeb" Orrelios'
-                "Ghost"
-            ]
-        }
-        {
-            id: 154
-            faction: "Rebel Alliance"
-            pilot: "AP-5"
-            suffix: " + Ghost"
-            linkedId: 153
-            ship: "Sheathipede-Class Shuttle"
-            threat: 6
-            upgrades: [
-                "R4 Astromech"
-                "Phantom"
-            ]
-        }
-        {
-            id: 155
-            faction: "Rebel Alliance"
-            pilot: "Lothal Rebel"
-            suffix: " + Phantom"
-            linkedId: 156
-            ship: "VCX-100"
-            threat: 4
-            upgrades: [
-                "Dorsal Turret"
-                "Lando Calrissian"
-                "Ghost"
-            ]
-        }
-        {
-            id: 156
-            faction: "Rebel Alliance"
-            pilot: '"Zeb" Orrelios (Sheathipede)'
-            suffix: " + Ghost"
-            linkedId: 155
-            ship: "Sheathipede-Class Shuttle"
-            threat: 4
-            upgrades: [
-                "R5 Astromech"
-                "Phantom"
-            ]
-        }
-        {
-            id: 157
-            faction: "First Order"
-            pilot: '"Midnight"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Afterburners"
-            ]
-        }
-        {
-            id: 158
-            faction: "First Order"
-            pilot: '"Static"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-            ]
-        }
-        {
-            id: 159
-            faction: "First Order"
-            pilot: "Omega Squadron Ace"
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Fanatical"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 160
-            faction: "First Order"
-            pilot: '"Scorch"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Fanatical"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 161
-            faction: "First Order"
-            pilot: '"Longshot"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Predator"
-            ]
-        }
-        {
-            id: 162
-            faction: "First Order"
-            pilot: "Zeta Squadron Pilot"
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Advanced Optics"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 163
-            faction: "First Order"
-            pilot: '"Muse"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Squad Leader"
-                "Advanced Optics"
-            ]
-        }
-        {
-            id: 164
-            faction: "First Order"
-            pilot: '"Null"'
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Swarm Tactics"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 165
-            faction: "First Order"
-            pilot: "Epsilon Squadron Cadet"
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Targeting Synchronizer"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 166
-            faction: "First Order"
-            pilot: "Commander Malarus"
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Advanced Optics"
-            ]
-        }
-        {
-            id: 167
-            faction: "First Order"
-            pilot: "TN-3465"
-            ship: "TIE/FO Fighter"
-            threat: 2
-            upgrades: [
-                "Targeting Synchronizer"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 168
-            faction: "First Order"
-            pilot: "Lieutenant Rivas"
-            ship: "TIE/FO Fighter"
-            threat: 1
-            upgrades: [
-            ]
-        }
-        {
-            id: 169
-            faction: "First Order"
-            pilot: '"Quickdraw"'
-            ship: "TIE/SF Fighter"
-            threat: 3
-            upgrades: [
-                "Juke"
-                "Collision Detector"
-                "Hotshot Gunner"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 170
-            faction: "First Order"
-            pilot: "Zeta Squadron Survivor"
-            ship: "TIE/SF Fighter"
-            threat: 2
-            upgrades: [
-                "Pattern Analyzer"
-                "Ion Missiles"
-                "Special Forces Gunner"
-            ]
-        }
-        {
-            id: 171
-            faction: "First Order"
-            pilot: '"Backdraft"'
-            ship: "TIE/SF Fighter"
-            threat: 3
-            upgrades: [
-                "Pattern Analyzer"
-                "Collision Detector"
-                "Ion Missiles"
-                "Special Forces Gunner"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 172
-            faction: "First Order"
-            pilot: "Omega Squadron Expert"
-            ship: "TIE/SF Fighter"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Special Forces Gunner"
-            ]
-        }
-        {
-            id: 173
-            faction: "First Order"
-            pilot: "Kylo Ren"
-            ship: "TIE/VN Silencer"
-            threat: 4
-            upgrades: [
-                "Hate"
-                "Predictive Shot"
-                "Primed Thrusters"
-                "Adv. Proton Torpedoes"
-            ]
-        }
-        {
-            id: 174
-            faction: "First Order"
-            pilot: '"Recoil"'
-            ship: "TIE/VN Silencer"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Proton Torpedoes"
-            ]
-        }
-        {
-            id: 175
-            faction: "First Order"
-            pilot: "First Order Test Pilot"
-            ship: "TIE/VN Silencer"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 176
-            faction: "First Order"
-            pilot: '"Blackout"'
-            ship: "TIE/VN Silencer"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 177
-            faction: "First Order"
-            pilot: '"Avenger"'
-            ship: "TIE/VN Silencer"
-            threat: 3
-            upgrades: [
-                "Primed Thrusters"
-                "Adv. Proton Torpedoes"
-            ]
-        }
-        {
-            id: 178
-            faction: "First Order"
-            pilot: "Sienar-Jaemus Engineer"
-            ship: "TIE/VN Silencer"
-            threat: 2
-        }
-        {
-            id: 179
-            faction: "First Order"
-            pilot: "Lieutenant Tavson"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 4
-            upgrades: [
-                "Advanced Sensors"
-                "Ion Cannon"
-                "Kylo Ren"
-                "Supreme Leader Snoke"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 180
-            faction: "First Order"
-            pilot: "Lieutenant Dormitz"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 3
-            upgrades: [
-                "Biohexacrypt Codes"
-                "Hyperspace Tracking Data"
-                "Tractor Beam"
-            ]
-        }
-        {
-            id: 181
-            faction: "First Order"
-            pilot: "Starkiller Base Pilot"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 2
-        }
-        {
-            id: 182
-            faction: "First Order"
-            pilot: "Major Stridan"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 4
-            upgrades: [
-                "Biohexacrypt Codes"
-                "Pattern Analyzer"
-                "Tractor Beam"
-                "Captain Phasma"
-                "General Hux"
-            ]
-        }
-        {
-            id: 183
-            faction: "First Order"
-            pilot: "Captain Cardinal"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 3
-            upgrades: [
-                "Ion Cannon"
-                "Petty Officer Thanisson"
-            ]
-        }
-        {
-            id: 184
-            faction: "First Order"
-            pilot: "Petty Officer Thanisson"
-            ship: "Upsilon-Class Command Shuttle"
-            threat: 3
-            upgrades: [
-                "Captain Phasma"
-                "Tactical Scrambler"
-            ]
-        }
-        {
-            id: 185
-            faction: "Scum and Villainy"
-            pilot: "Boba Fett"
-            ship: "Firespray-31"
-            threat: 4
-            upgrades: [
-                "Lone Wolf"
-                "Perceptive Copilot"
-                "Inertial Dampeners"
-                "Seismic Charges"
-                "Slave I"
-            ]
-        }
-        {
-            id: 186
-            faction: "Scum and Villainy"
-            pilot: "Kath Scarlet"
-            ship: "Firespray-31"
-            threat: 3
-            upgrades: [
-                "Marauder"
-            ]
-        }
-        {
-            id: 187
-            faction: "Scum and Villainy"
-            pilot: "Krassis Trelix"
-            ship: "Firespray-31"
-            threat: 3
-            upgrades: [
-                "Concussion Missiles"
-            ]
-        }
-        {
-            id: 188
-            faction: "Scum and Villainy"
-            pilot: "Emon Azzameen"
-            ship: "Firespray-31"
-            threat: 4
-            upgrades: [
-                "Elusive"
-                "Perceptive Copilot"
-                "Inertial Dampeners"
-                "Proximity Mines"
-                "Seismic Charges"
-                "Andrasta"
-            ]
-        }
-        {
-            id: 189
-            faction: "Scum and Villainy"
-            pilot: "Koshka Frost"
-            ship: "Firespray-31"
-            threat: 3
-            upgrades: [
-                "Perceptive Copilot"
-            ]
-        }
-        {
-            id: 190
-            faction: "Scum and Villainy"
-            pilot: "Bounty Hunter"
-            ship: "Firespray-31"
-            threat: 3
-            upgrades: [
-                "Perceptive Copilot"
-                "Inertial Dampeners"
-                "Seismic Charges"
-            ]
-        }
-        {
-            id: 191
-            faction: "Scum and Villainy"
-            pilot: "Fenn Rau"
-            ship: "Fang Fighter"
-            threat: 3
-            upgrades: [
-                "Daredevil"
-                "Afterburners"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 192
-            faction: "Scum and Villainy"
-            pilot: "Kad Solus"
-            ship: "Fang Fighter"
-            threat: 2
-            upgrades: [
-                "Fearless"
-            ]
-        }
-        {
-            id: 193
-            faction: "Scum and Villainy"
-            pilot: "Zealous Recruit"
-            ship: "Fang Fighter"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-            ]
-        }
-        {
-            id: 194
-            faction: "Scum and Villainy"
-            pilot: "Joy Rekkoff"
-            ship: "Fang Fighter"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Ion Torpedoes"
-                "Afterburners"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 195
-            faction: "Scum and Villainy"
-            pilot: "Old Teroch"
-            ship: "Fang Fighter"
-            threat: 2
-        }
-        {
-            id: 196
-            faction: "Scum and Villainy"
-            pilot: "Skull Squadron Pilot"
-            ship: "Fang Fighter"
-            threat: 2
-            upgrades: [
-                "Fearless"
-            ]
-        }
-        {
-            id: 197
-            faction: "Scum and Villainy"
-            pilot: "Ahhav"
-            ship: "Mining Guild TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Afterburners"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 198
-            faction: "Scum and Villainy"
-            pilot: "Mining Guild Surveyor"
-            ship: "Mining Guild TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Swarm Tactics"
-                "Trick Shot"
-                "Shield Upgrade"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 199
-            faction: "Scum and Villainy"
-            pilot: "Overseer Yushyn"
-            ship: "Mining Guild TIE Fighter"
-            threat: 1
-        }
-        {
-            id: 200
-            faction: "Scum and Villainy"
-            pilot: "Captain Seevor"
-            ship: "Mining Guild TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 201
-            faction: "Scum and Villainy"
-            pilot: "Foreman Proach"
-            ship: "Mining Guild TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Swarm Tactics"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 202
-            faction: "Scum and Villainy"
-            pilot: "Mining Guild Sentry"
-            ship: "Mining Guild TIE Fighter"
-            threat: 1
-        }
-        {
-            id: 203
-            faction: "Scum and Villainy"
-            pilot: "Ketsu Onyo"
-            ship: "Lancer-Class Pursuit Craft"
-            threat: 4
-            upgrades: [
-                "Outmaneuver"
-                "Rigged Cargo Chute"
-                "Shield Upgrade"
-                "Shadow Caster"
-            ]
-        }
-        {
-            id: 204
-            faction: "Scum and Villainy"
-            pilot: "Sabine Wren (Scum)"
-            ship: "Lancer-Class Pursuit Craft"
-            threat: 3
-            upgrades: [
-                "Fearless"
-                "Ketsu Onyo"
-                "Shadow Caster"
-            ]
-        }
-        {
-            id: 205
-            faction: "Scum and Villainy"
-            pilot: "Asajj Ventress"
-            ship: "Lancer-Class Pursuit Craft"
-            threat: 4
-            upgrades: [
-                "Sense"
-                "Veteran Turret Gunner"
-                "Deadman's Switch"
-                "Inertial Dampeners"
-            ]
-        }
-        {
-            id: 206
-            faction: "Scum and Villainy"
-            pilot: "Shadowport Hunter"
-            ship: "Lancer-Class Pursuit Craft"
-            threat: 3
-            upgrades: [
-                "Maul"
-                "Contraband Cybernetics"
-            ]
-        }
-        {
-            id: 207
-            faction: "Scum and Villainy"
-            pilot: "Talonbane Cobra"
-            ship: "Kihraxz Fighter"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Cluster Missiles"
-                "Inertial Dampeners"
-                "Afterburners"
-                "Electronic Baffle"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 208
-            faction: "Scum and Villainy"
-            pilot: "Viktor Hel"
-            ship: "Kihraxz Fighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 209
-            faction: "Scum and Villainy"
-            pilot: "Graz"
-            ship: "Kihraxz Fighter"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Concussion Missiles"
-                "Contraband Cybernetics"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 210
-            faction: "Scum and Villainy"
-            pilot: "Black Sun Ace"
-            ship: "Kihraxz Fighter"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 211
-            faction: "Scum and Villainy"
-            pilot: "Captain Jostero"
-            ship: "Kihraxz Fighter"
-            threat: 3
-            upgrades: [
-                "Ion Missiles"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 212
-            faction: "Scum and Villainy"
-            pilot: "Cartel Marauder"
-            ship: "Kihraxz Fighter"
-            threat: 2
-            upgrades: [
-                "Concussion Missiles"
-                "Hull Upgrade"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 213
-            faction: "Scum and Villainy"
-            pilot: "Kavil"
-            ship: "Y-Wing"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Dorsal Turret"
-                '"Genius"'
-                "Proton Bombs"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 214
-            faction: "Scum and Villainy"
-            pilot: "Hired Gun"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Ion Cannon Turret"
-                "Veteran Turret Gunner"
-                "R3 Astromech"
-                "Conner Nets"
-            ]
-        }
-        {
-            id: 215
-            faction: "Scum and Villainy"
-            pilot: "Drea Renthal"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "Ion Cannon Turret"
-                "Hotshot Gunner"
-            ]
-        }
-        {
-            id: 216
-            faction: "Scum and Villainy"
-            pilot: "Crymorah Goon"
-            ship: "Y-Wing"
-            threat: 2
-            upgrades: [
-                "Dorsal Turret"
-                "Ion Torpedoes"
-                "R3 Astromech"
-                "Inertial Dampeners"
-                "Proximity Mines"
-            ]
-        }
-        {
-            id: 217
-            faction: "Scum and Villainy"
-            pilot: "Dace Bonearm"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Feedback Array"
-                "Conner Nets"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 218
-            faction: "Scum and Villainy"
-            pilot: "Palob Godalhi"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Debris Gambit"
-                "Juke"
-                "Contraband Cybernetics"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 219
-            faction: "Scum and Villainy"
-            pilot: "Torkil Mux"
-            ship: "HWK-290"
-            threat: 2
-            upgrades: [
-                "Cloaking Device"
-                "Proximity Mines"
-            ]
-        }
-        {
-            id: 220
-            faction: "Scum and Villainy"
-            pilot: "Spice Runner"
-            suffix: " (x2)"
-            ship: "HWK-290"
-            threat: 3
-            linkedId: 220
-            upgrades: [
-                "Deadman's Switch"
-                "Proton Bombs"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 221
-            faction: "Scum and Villainy"
-            pilot: "Constable Zuvio"
-            ship: "Quadjumper"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Rigged Cargo Chute"
-                "Conner Nets"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 222
-            faction: "Scum and Villainy"
-            pilot: "Jakku Gunrunner"
-            suffix: " (x2)"
-            linkedId: 222
-            ship: "Quadjumper"
-            threat: 3
-            upgrades: [
-                "Novice Technician"
-                "Proximity Mines"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 223
-            faction: "Scum and Villainy"
-            pilot: "Sarco Plank"
-            ship: "Quadjumper"
-            threat: 2
-            upgrades: [
-                "Unkar Plutt"
-                "Feedback Array"
-                "Seismic Charges"
-                "Hull Upgrade"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 224
-            faction: "Scum and Villainy"
-            pilot: "Unkar Plutt"
-            ship: "Quadjumper"
-            threat: 2
-            upgrades: [
-                "Novice Technician"
-                "Contraband Cybernetics"
-                "Proximity Mines"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 225
-            faction: "Scum and Villainy"
-            pilot: "Prince Xizor"
-            ship: "StarViper"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Fire-Control System"
-                "Shield Upgrade"
-                "Virago"
-            ]
-        }
-        {
-            id: 226
-            faction: "Scum and Villainy"
-            pilot: "Black Sun Enforcer"
-            ship: "StarViper"
-            threat: 2
-            upgrades: [
-                "Collision Detector"
-            ]
-        }
-        {
-            id: 227
-            faction: "Scum and Villainy"
-            pilot: "Guri"
-            ship: "StarViper"
-            threat: 3
-            upgrades: [
-                "Daredevil"
-                "Advanced Sensors"
-                "Adv. Proton Torpedoes"
-            ]
-        }
-        {
-            id: 228
-            faction: "Scum and Villainy"
-            pilot: "Dalan Oberos (StarViper)"
-            ship: "StarViper"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Fire-Control System"
-                "Proton Torpedoes"
-                "Contraband Cybernetics"
-            ]
-        }
-        {
-            id: 229
-            faction: "Scum and Villainy"
-            pilot: "Black Sun Assassin"
-            ship: "StarViper"
-            threat: 2
-            upgrades: [
-                "Fearless"
-            ]
-        }
-        {
-            id: 230
-            faction: "Scum and Villainy"
-            pilot: "Serissu"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 231
-            faction: "Scum and Villainy"
-            pilot: "Genesis Red"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Concussion Missiles"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 232
-            faction: "Scum and Villainy"
-            pilot: "Quinn Jast"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Adv. Proton Torpedoes"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 233
-            faction: "Scum and Villainy"
-            pilot: "Laetin A'shera"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Cluster Missiles"
-                "Munitions Failsafe"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 234
-            faction: "Scum and Villainy"
-            pilot: "Inaldra"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Ion Cannon"
-                "Hull Upgrade"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 235
-            faction: "Scum and Villainy"
-            pilot: "Tansarii Point Veteran"
-            suffix: " (x2)"
-            linkedId: 235
-            ship: "M3-A Interceptor"
-            threat: 3
-            upgrades: [
-                "Crack Shot"
-                "Heavy Laser Cannon"
-            ]
-        }
-        {
-            id: 236
-            faction: "Scum and Villainy"
-            pilot: "Sunny Bounder"
-            ship: "M3-A Interceptor"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Cluster Missiles"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 237
-            faction: "Scum and Villainy"
-            pilot: "Cartel Spacer"
-            suffix: " (x2)"
-            linkedId: 237
-            ship: "M3-A Interceptor"
-            threat: 3
-            upgrades: [
-                "Ion Torpedoes"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 238
-            faction: "Scum and Villainy"
-            pilot: "Tel Trevura"
-            ship: "JumpMaster 5000"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                'GNK "Gonk" Droid'
-                "Proton Torpedoes"
-                "Deadman's Switch"
-            ]
-        }
-        {
-            id: 239
-            faction: "Scum and Villainy"
-            pilot: "Contracted Scout"
-            ship: "JumpMaster 5000"
-            threat: 2
-            upgrades: [
-                "Ion Torpedoes"
-                "Inertial Dampeners"
-            ]
-        }
-        {
-            id: 240
-            faction: "Scum and Villainy"
-            pilot: "Dengar"
-            ship: "JumpMaster 5000"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Proton Torpedoes"
-                "R4 Astromech"
-                "Contraband Cybernetics"
-                "Punishing One"
-            ]
-        }
-        {
-            id: 241
-            faction: "Scum and Villainy"
-            pilot: "Manaroo"
-            ship: "JumpMaster 5000"
-            threat: 3
-            upgrades: [
-                "Intimidation"
-                "Perceptive Copilot"
-                "Proton Torpedoes"
-                "Feedback Array"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 242
-            faction: "Scum and Villainy"
-            pilot: "N'dru Suhlak"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Lone Wolf"
-                "Homing Missiles"
-                "Cloaking Device"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 243
-            faction: "Scum and Villainy"
-            pilot: "Black Sun Soldier"
-            suffix: " (x2)"
-            linkedId: 243
-            ship: "Z-95 Headhunter"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Concussion Missiles"
-                "Deadman's Switch"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 244
-            faction: "Scum and Villainy"
-            pilot: "Kaa'to Leeachos"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "Concussion Missiles"
-                "Contraband Cybernetics"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 245
-            faction: "Scum and Villainy"
-            pilot: "Binayre Pirate"
-            ship: "Z-95 Headhunter"
-            threat: 1
-        }
-        {
-            id: 246
-            faction: "Scum and Villainy"
-            pilot: "4-LOM"
-            ship: "G-1A Starfighter"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Advanced Sensors"
-                "0-0-0"
-                "Zuckuss"
-                "BT-1"
-                "Mist Hunter"
-            ]
-        }
-        {
-            id: 247
-            faction: "Scum and Villainy"
-            pilot: "Zuckuss"
-            ship: "G-1A Starfighter"
-            threat: 2
-            upgrades: [
-                "Lone Wolf"
-                "Tractor Beam"
-                "4-LOM"
-                "Mist Hunter"
-            ]
-        }
-        {
-            id: 248
-            faction: "Scum and Villainy"
-            pilot: "Gand Findsman"
-            ship: "G-1A Starfighter"
-            threat: 2
-            upgrades: [
-                "Fire-Control System"
-                "Freelance Slicer"
-                "Deadman's Switch"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 249
-            faction: "Scum and Villainy"
-            pilot: "Moralo Eval"
-            ship: "YV-666"
-            threat: 4
-            upgrades: [
-                "Outmaneuver"
-                "Cluster Missiles"
-                "Latts Razzi"
-                "Dengar"
-                "Contraband Cybernetics"
-            ]
-        }
-        {
-            id: 250
-            faction: "Scum and Villainy"
-            pilot: "Latts Razzi"
-            ship: "YV-666"
-            threat: 3
-            upgrades: [
-                "Boba Fett"
-                "Bossk"
-                "Dengar"
-                "Feedback Array"
-                "Static Discharge Vanes"
-            ]
-        }
-        {
-            id: 251
-            faction: "Scum and Villainy"
-            pilot: "Trandoshan Slaver"
-            ship: "YV-666"
-            threat: 3
-            upgrades: [
-                "Hotshot Gunner"
-                "Jabba the Hutt"
-                "Contraband Cybernetics"
-                "Rigged Cargo Chute"
-            ]
-        }
-        {
-            id: 252
-            faction: "Scum and Villainy"
-            pilot: "Bossk"
-            suffix: " + Nashtah Pup"
-            linkedId: 253
-            ship: "YV-666"
-            threat: 3
-            upgrades: [
-                "Marksmanship"
-                "Greedo"
-                "Hound's Tooth"
-            ]
-        }
-        {
-            id: 253
-            faction: "Scum and Villainy"
-            pilot: "Nashtah Pup"
-            suffix: " + Bossk"
-            linkedId: 252
-            ship: "Z-95 Headhunter"
-            threat: 3
-        }
-        {
-            id: 254
-            faction: "Scum and Villainy"
-            pilot: "Trandoshan Slaver"
-            suffix: " + Nashtah Pup"
-            linkedId: 255
-            ship: "YV-666"
-            threat: 3
-            upgrades: [
-                "Deadman's Switch"
-                "Hound's Tooth"
-            ]
-        }
-        {
-            id: 255
-            faction: "Scum and Villainy"
-            pilot: "Nashtah Pup"
-            suffix: " + Trandoshan Slaver"
-            linkedId: 254
-            ship: "Z-95 Headhunter"
-            threat: 3
-            upgrades: [
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 256
-            faction: "Scum and Villainy"
-            pilot: "Torani Kulda"
-            ship: "M12-L Kimogila Fighter"
-            threat: 3
-            upgrades: [
-                "Saturation Salvo"
-                "Proton Torpedoes"
-                "Cluster Missiles"
-                "R4 Astromech"
-                "Inertial Dampeners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 257
-            faction: "Scum and Villainy"
-            pilot: "Dalan Oberos"
-            ship: "M12-L Kimogila Fighter"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "R5-TK"
-                "Inertial Dampeners"
-            ]
-        }
-        {
-            id: 258
-            faction: "Scum and Villainy"
-            pilot: "Cartel Executioner"
-            ship: "M12-L Kimogila Fighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "R5-P8"
-                "Contraband Cybernetics"
-            ]
-        }
-        {
-            id: 259
-            skip: true
-            faction: "Scum and Villainy"
-            pilot: "Dalan Oberos"
-            ship: "M12-L Kimogila Fighter"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-                "R5-TK"
-                "Inertial Dampeners"
-            ]
-        }
-        {
-            id: 260
-            faction: "Scum and Villainy"
-            pilot: "Captain Nym"
-            ship: "Scurrg H-6 Bomber"
-            threat: 3
-            upgrades: [
-                "Squad Leader"
-                "Trajectory Simulator"
-                "R4 Astromech"
-                "Bomblet Generator"
-                "Havoc"
-            ]
-        }
-        {
-            id: 261
-            faction: "Scum and Villainy"
-            pilot: "Sol Sixxa"
-            ship: "Scurrg H-6 Bomber"
-            threat: 3
-            upgrades: [
-                "Ion Cannon Turret"
-                "Skilled Bombardier"
-                "Conner Nets"
-                "Proximity Mines"
-            ]
-        }
-        {
-            id: 262
-            faction: "Scum and Villainy"
-            pilot: "Lok Revenant"
-            ship: "Scurrg H-6 Bomber"
-            threat: 2
-            upgrades: [
-                "Dorsal Turret"
-                "Bomblet Generator"
-            ]
-        }
-        {
-            id: 263
-            faction: "Scum and Villainy"
-            pilot: "IG-88A"
-            suffix: " + IG-88D"
-            linkedId: 264
-            ship: "Aggressor"
-            threat: 6
-            upgrades: [
-                "Advanced Sensors"
-                "IG-2000"
-            ]
-        }
-        {
-            id: 264
-            faction: "Scum and Villainy"
-            pilot: "IG-88D"
-            suffix: " + IG-88A"
-            linkedId: 263
-            ship: "Aggressor"
-            threat: 6
-            upgrades: [
-                "Advanced Sensors"
-                "IG-2000"
-            ]
-        }
-        {
-            id: 265
-            faction: "Scum and Villainy"
-            pilot: "IG-88B"
-            suffix: " + IG-88C"
-            linkedId: 266
-            ship: "Aggressor"
-            threat: 6
-            upgrades: [
-                "Fire-Control System"
-                "Ion Cannon"
-                "IG-2000"
-            ]
-        }
-        {
-            id: 266
-            faction: "Scum and Villainy"
-            pilot: "IG-88C"
-            suffix: " + IG-88B"
-            linkedId: 265
-            ship: "Aggressor"
-            threat: 6
-            upgrades: [
-                "Fire-Control System"
-                "Ion Cannon"
-                "IG-2000"
-            ]
-        }
-        {
-            id: 267
-            faction: "Resistance"
-            pilot: "L'ulo L'ampar"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Primed Thrusters"
-                "Homing Missiles"
-            ]
-        }
-        {
-            id: 268
-            faction: "Resistance"
-            pilot: "Greer Sonnel"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 269
-            faction: "Resistance"
-            pilot: "Green Squadron Expert"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Heroic"
-                "Primed Thursters"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 270
-            faction: "Resistance"
-            pilot: "Tallissan Lintra"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Ferrosphere Paint"
-            ]
-        }
-        {
-            id: 271
-            faction: "Resistance"
-            pilot: "Zari Bangel"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Outmaneuver"
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 272
-            faction: "Resistance"
-            pilot: "Blue Squadron Recruit"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Primed Thrusters"
-                "Homing Missiles"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 273
-            faction: "Resistance"
-            pilot: "Poe Dameron"
-            ship: "T-70 X-Wing"
-            threat: 4
-            upgrades: [
-                "Proton Torpedoes"
-                "BB-8"
-                "Black One"
-                "Integrated S-Foils"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 274
-            faction: "Resistance"
-            pilot: "Jessika Pava"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "R5 Astromech"
-                "Integrated S-Foils"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 275
-            faction: "Resistance"
-            pilot: "Black Squadron Ace (T-70)"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Proton Torpedoes"
-                "M9-G8"
-                "Integrated S-Foils"
-            ]
-        }
-        {
-            id: 276
-            faction: "Resistance"
-            pilot: "Ello Asty"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Integrated S-Foils"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 277
-            faction: "Resistance"
-            pilot: "Joph Seastriker"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "R2 Astromech"
-                "Integrated S-Foils"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 278
-            faction: "Resistance"
-            pilot: "Jaycris Tubbs"
-            ship: "T-70 X-Wing"
-            threat: 2
-        }
-        {
-            id: 279
-            faction: "Resistance"
-            pilot: "Nien Nunb"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Integrated S-Foils"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 280
-            faction: "Resistance"
-            pilot: "Lieutenant Bastian"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Targeting Synchronizer"
-                "Proton Torpedoes"
-                "R3 Astromech"
-                "Integrated S-Foils"
-            ]
-        }
-        {
-            id: 281
-            faction: "Resistance"
-            pilot: "Red Squadron Expert"
-            ship: "T-70 X-Wing"
-            threat: 2
-        }
-        {
-            id: 282
-            faction: "Resistance"
-            pilot: "Temmin Wexley"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Proton Torpedoes"
-                "Integrated S-Foils"
-            ]
-        }
-        {
-            id: 283
-            faction: "Resistance"
-            pilot: "Kare Kun"
-            ship: "T-70 X-Wing"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Integrated S-Foils"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 284
-            faction: "Resistance"
-            pilot: "Blue Squadron Rookie"
-            ship: "T-70 X-Wing"
-            threat: 2
-            upgrades: [
-                "BB Astromech"
-            ]
-        }
-        {
-            id: 285
-            faction: "Resistance"
-            pilot: "Finch Dallow"
-            ship: "MG-100 StarFortress"
-            threat: 4
-            upgrades: [
-                "Advanced Optics"
-                "Paige Tico"
-                "Proton Bombs"
-                "Ablative Plating"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 286
-            faction: "Resistance"
-            pilot: "Cat"
-            ship: "MG-100 StarFortress"
-            threat: 3
-            upgrades: [
-                "Skilled Bombardier"
-                "Conner Nets"
-                "Electronic Baffle"
-            ]
-        }
-        {
-            id: 287
-            faction: "Resistance"
-            pilot: "Cobalt Squadron Bomber"
-            ship: "MG-100 StarFortress"
-            threat: 3
-            upgrades: [
-                "Trajectory Simulator"
-                "Proton Bombs"
-                "Ablative Plating"
-            ]
-        }
-        {
-            id: 288
-            faction: "Resistance"
-            pilot: "Edon Kappehl"
-            ship: "MG-100 StarFortress"
-            threat: 4
-            upgrades: [
-                "Pattern Analyzer"
-                "Seasoned Navigator"
-                "Skilled Bombardier"
-                "Conner Nets"
-                "Proton Bombs"
-            ]
-        }
-        {
-            id: 289
-            faction: "Resistance"
-            pilot: "Vennie"
-            ship: "MG-100 StarFortress"
-            threat: 4
-            upgrades: [
-                "Advanced Optics"
-                "Rose Tico"
-                "Finn"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 290
-            faction: "Resistance"
-            pilot: "Ben Teene"
-            ship: "MG-100 StarFortress"
-            threat: 3
-            upgrades: [
-                "Conner Nets"
-                "Proton Bombs"
-            ]
-        }
-        {
-            id: 291
-            faction: "Resistance"
-            pilot: "Han Solo (Resistance)"
-            ship: "Scavenged YT-1300"
-            threat: 3
-            upgrades: [
-                "Chewbacca"
-            ]
-        }
-        {
-            id: 292
-            faction: "Resistance"
-            pilot: "Rey"
-            ship: "Scavenged YT-1300"
-            threat: 5
-            upgrades: [
-                "Finn"
-                "BB-8"
-                "Inertial Dampeners"
-                "Engine Upgrade"
-                "Rey's Millennium Falcon"
-            ]
-        }
-        {
-            id: 293
-            faction: "Resistance"
-            pilot: "Chewbacca (Resistance)"
-            ship: "Scavenged YT-1300"
-            threat: 4
-            upgrades: [
-                "Rey"
-                "Engine Upgrade"
-                "Rey's Millennium Falcon"
-            ]
-        }
-        {
-            id: 294
-            faction: "Resistance"
-            pilot: "Resistance Sympathizer"
-            ship: "Scavenged YT-1300"
-            threat: 4
-            upgrades: [
-                "Debris Gambit"
-                "C-3PO"
-                "Chewbacca"
-                "Han Solo"
-            ]
-        }
-        {
-            id: 295
-            faction: "Rebel Alliance"
-            pilot: "Thane Kyrell"
-            ship: "X-Wing"
-            threat: 2
-            upgrades: [
-                "Stealth Device"
-                "Outmaneuver"
-            ]
-        }
-        {
-            id: 296
-            faction: "Galactic Empire"
-            pilot: "Iden Versio"
-            ship: "TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "Lone Wolf"
-            ]
-        }
-        {
-            id: 297
-            faction: "Scum and Villainy"
-            pilot: "Skull Squadron Pilot"
-            ship: "Fang Fighter"
-            threat: 3
-            upgrades: [
-                "Marksmanship"
-                "Adv. Proton Torpedoes"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 298
-            faction: "Scum and Villainy"
-            pilot: "Foreman Proach"
-            ship: "Mining Guild TIE Fighter"
-            threat: 2
-            upgrades: [
-                "Fearless"
-                "Crack Shot"
-            ]
-        }
-        {
-            id: 299
-            faction: "First Order"
-            pilot: '"Blackout"'
-            ship: "TIE/VN Silencer"
-            threat: 3
-            upgrades: [
-                "Trick Shot"
-            ]
-        }
-        {
-            id: 300
-            faction: "Resistance"
-            pilot: "Greer Sonnel"
-            ship: "RZ-2 A-Wing"
-            threat: 2
-            upgrades: [
-                "Marksmanship"
-                "Primed Thrusters"
-            ]
-        }
-        {
-            id: 301
-            faction: "Scum and Villainy"
-            pilot: "Han Solo (Scum)"
-            ship: "Customized YT-1300"
-            linkedId: 302
-            suffix: " + Escape craft"
-            threat: 5
-            upgrades: [
-                "Elusive"
-                "Chewbacca"
-                "Lando's Millennium Falcon"
-                "Agile Gunner"
-                "Tactical Scrambler"
-                "Rigged Cargo Chute"
-            ]
-        }
-        {
-            id: 302
-            faction: "Scum and Villainy"
-            pilot: "Outer Rim Pioneer"
-            ship: "Escape Craft"
-            linkedId: 301
-            suffix: " + Han Solo"
-            threat: 5
-            upgrades: [
-                "Tobias Beckett"
-            ]
-        }
-        {
-            id: 303
-            faction: "Scum and Villainy"
-            pilot: "Lando Calrissian (Scum)"
-            ship: "Customized YT-1300"
-            linkedId: 304
-            suffix: " + L3-37"
-            threat: 4
-            upgrades: [
-                "Han Solo (Scum)"
-                "Qi'ra"
-                "Lando's Millennium Falcon"
-            ]
-        }
-        {
-            id: 304
-            faction: "Scum and Villainy"
-            pilot: "L3-37 (Escape Craft)"
-            ship: "Escape Craft"
-            linkedId: 303
-            suffix: " + Lando Calrissian"
-            threat: 4
-            upgrades: [
-            ]
-        }
-        {
-            id: 305
-            faction: "Scum and Villainy"
-            pilot: "L3-37"
-            ship: "Customized YT-1300"
-            linkedId: 306
-            suffix: " + Lando Calrissian"
-            threat: 5
-            upgrades: [
-                "Han Solo (Scum)"
-                "Qi'ra"
-                "Hull Upgrade"
-                "Outmaneuver"
-            ]
-        }
-        {
-            id: 306
-            faction: "Scum and Villainy"
-            pilot: "Lando Calrissian (Scum) (Escape Craft)"
-            ship: "Escape Craft"
-            linkedId: 305
-            suffix: " + L3-37"
-            threat: 5
-            upgrades: [
-                "Elusive"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 307
-            faction: "Scum and Villainy"
-            pilot: "Freighter Captain"
-            ship: "Customized YT-1300"
-            linkedId: 308
-            suffix: " + Autopilot drone"
-            threat: 3
-            upgrades: [
-                "Lando's Millennium Falcon"
-            ]
-        }
-        {
-            id: 308
-            faction: "Scum and Villainy"
-            pilot: "Autopilot Drone"
-            ship: "Escape Craft"
-            linkedId: 307
-            suffix: " + YT-1300"
-            threat: 3
-            upgrades: [
-                "Afterburners"
-            ]
-        }
-        {
-            id: 309
-            faction: "Galactic Republic"
-            pilot: "Obi-Wan Kenobi"
-            ship: "Delta-7 Aethersprite"
-            threat: 3
-            upgrades: [
-                "Predictive Shot"
-                "R4-P17"
-                "Spare Parts Canisters"
-                "Calibrated Laser Targeting"
-            ]
-        }
-        {
-            id: 310
-            faction: "Galactic Republic"
-            pilot: "Saesee Tiin"
-            ship: "Delta-7 Aethersprite"
-            threat: 3
-            upgrades: [
-                "Supernatural Reflexes"
-                "R4-P Astromech"
-                "Delta-7B"
-            ]
-        }
-        {
-            id: 311
-            faction: "Galactic Republic"
-            pilot: "Mace Windu"
-            ship: "Delta-7 Aethersprite"
-            threat: 4
-            upgrades: [
-                "Supernatural Reflexes"
-                "R2 Astromech"
-                "Delta-7B"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 312
-            faction: "Galactic Republic"
-            pilot: "Plo Koon"
-            ship: "Delta-7 Aethersprite"
-            threat: 3
-            upgrades: [
-                "Battle Meditation"
-                "Sense"
-                "R4-P Astromech"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 313
-            faction: "Galactic Republic"
-            pilot: "Jedi Knight"
-            ship: "Delta-7 Aethersprite"
-            threat: 2
-            upgrades: [
-                "Delta-7B"
-            ]
-        }
-        {
-            id: 314
-            faction: "Galactic Republic"
-            pilot: '"Tucker"'
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Concussion Missiles"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 315
-            faction: "Galactic Republic"
-            pilot: "Gold Squadron Trooper"
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Cluster Missiles"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 316
-            faction: "Galactic Republic"
-            pilot: '"Swoop"'
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Composure"
-                "Synchronized Console"
-                "Proton Rockets"
-            ]
-        }
-        {
-            id: 317
-            faction: "Galactic Republic"
-            pilot: "Blue Squadron Protector"
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Dedicated"
-                "Synchronized Console"
-            ]
-        }
-        {
-            id: 318
-            faction: "Galactic Republic"
-            pilot: '"Odd Ball"'
-            ship: "V-19 Torrent"
-            threat: 3
-            upgrades: [
-                "Saturation Salvo"
-                "Cluster Missiles"
-                "Afterburners"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 319
-            faction: "Galactic Republic"
-            pilot: '"Kickback"'
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Synchronized Console"
-            ]
-        }
-        {
-            id: 320
-            faction: "Galactic Republic"
-            pilot: '"Axe"'
-            ship: "V-19 Torrent"
-            threat: 2
-            upgrades: [
-                "Juke"
-                "Homing Missiles"
-            ]
-        }
-        {
-            id: 321
-            faction: "Galactic Republic"
-            pilot: '"Wolffe"'
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "R4-P44"
-                "Veteran Tail Gunner"
-                "Perceptive Copilot"
-            ]
-        }
-        {
-            id: 322
-            faction: "Galactic Republic"
-            pilot: '"Sinker"'
-            ship: "ARC-170"
-            threat: 2
-            upgrades: [
-                "Expert Handling"
-            ]
-        }
-        {
-            id: 323
-            faction: "Galactic Republic"
-            pilot: "104th Battalion Pilot"
-            ship: "ARC-170"
-            threat: 2
-            upgrades: [
-                "Dedicated"
-                "R4-P Astromech"
-            ]
-        }
-        {
-            id: 324
-            faction: "Galactic Republic"
-            pilot: '"Odd Ball" (ARC-170)'
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Seasoned Navigator"
-                "Clone Commander Cody"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 325
-            faction: "Galactic Republic"
-            pilot: '"Jag"'
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Predator"
-                "Ion Torpedoes"
-                "R2 Astromech"
-                "Seventh Fleet Gunner"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 326
-            faction: "Galactic Republic"
-            pilot: "Squad Seven Veteran"
-            ship: "ARC-170"
-            threat: 3
-            upgrades: [
-                "Expert Handling"
-                "Proton Torpedoes"
-                "R4-P Astromech"
-                "Novice Technician"
-                "Seventh Fleet Gunner"
-            ]
-        }
-        {
-            id: 327
-            faction: "Scum and Villainy"
-            pilot: "Black Sun Soldier"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Cluster Missiles"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 328
-            faction: "Scum and Villainy"
-            pilot: "Binayre Pirate"
-            ship: "Z-95 Headhunter"
-            threat: 1
-            upgrades: [
-                "Deadman's Switch"
-            ]
-        }
-        {
-            id: 329
-            faction: "Scum and Villainy"
-            pilot: "N'dru Suhlak"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Outmaneuver"
-                "Hull Upgrade"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 330
-            faction: "Scum and Villainy"
-            pilot: "Kaa'to Leeachos"
-            ship: "Z-95 Headhunter"
-            threat: 2
-            upgrades: [
-                "Saturation Salvo"
-                "Cluster Missiles"
-                "Concussion Missiles"
-                "Deadman's Switch"
-                "Munitions Failsafe"
-            ]
-        }
-        {
-            id: 331
-            faction: "Galactic Empire"
-            pilot: "Black Squadron Scout"
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Conner Nets"
-            ]
-        }
-        {
-            id: 332
-            faction: "Galactic Empire"
-            pilot: "Planetary Sentinel"
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Proton Bombs"
-                "Skilled Bombardier"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 333
-            faction: "Galactic Empire"
-            pilot: '"Duchess"'
-            ship: "TIE Striker"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Conner Nets"
-                "Afterburners"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 334
-            faction: "Galactic Empire"
-            pilot: '"Countdown"'
-            ship: "TIE Striker"
-            threat: 3
-            upgrades: [
-                "Elusive"
-                "Proton Bombs"
-                "Skilled Bombardier"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 335
-            faction: "Galactic Empire"
-            pilot: '"Pure Sabacc"'
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Trick Shot"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 336
-            skip: true
-            faction: "Galactic Empire"
-            pilot: "Planetary Sentinel"
-            ship: "TIE Striker"
-            threat: 2
-            upgrades: [
-                "Proton Bombs"
-                "Skilled Bombardier"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 337
-            faction: "Separatist Alliance"
-            pilot: "0-66"
-            ship: "Sith Infiltrator"
-            threat: 3
-            upgrades: [
-                "Chancellor Palpatine"
-                "Shield Upgrade"
-                "Scimitar"
-            ]
-        }
-        {
-            id: 338
-            faction: "Separatist Alliance"
-            pilot: "Dark Courier"
-            ship: "Sith Infiltrator"
-            threat: 3
-            upgrades: [
-                "Count Dooku"
-                "General Grievous"
-                "K2-B4"
-                "Scimitar"
-            ]
-        }
-        {
-            id: 339
-            faction: "Separatist Alliance"
-            pilot: "Darth Maul"
-            ship: "Sith Infiltrator"
-            threat: 4
-            upgrades: [
-                "Hate"
-                "Heavy Laser Cannon"
-                "Perceptive Copilot"
-                "DRK-1 Probe Droids"
-                "Shield Upgrade"
-                "Scimitar"
-            ]
-        }
-        {
-            id: 340
-            faction: "Separatist Alliance"
-            pilot: "Count Dooku"
-            ship: "Sith Infiltrator"
-            threat: 4
-            upgrades: [
-                "Brilliant Evasion"
-                "Predictive Shot"
-                "Ion Torpedoes"
-                "General Grievous"
-                "Hull Upgrade"
-                "Scimitar"
-            ]
-        }
-        {
-            id: 341
-            faction: "Separatist Alliance"
-            pilot: "DFS-311"
-            ship: "Vulture-class Droid Fighter"
-            threat: 1
-            upgrades: [
-                "Grappling Struts"
-            ]
-        }
-        {
-            id: 342
-            faction: "Separatist Alliance"
-            pilot: "Precise Hunter"
-            ship: "Vulture-class Droid Fighter"
-            threat: 2
-            upgrades: [
-                "Concussion Missiles"
-                "Afterburners"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 343
-            faction: "Separatist Alliance"
-            pilot: "Separatist Drone"
-            ship: "Vulture-class Droid Fighter"
-            threat: 2
-            upgrades: [
-                "Energy-Shell Charges"
-                "Grappling Struts"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 344
-            faction: "Separatist Alliance"
-            pilot: "Haor Chall Prototype"
-            ship: "Vulture-class Droid Fighter"
-            threat: 2
-            upgrades: [
-                "Discord Missiles"
-                "Energy-Shell Charges"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 345
-            faction: "Separatist Alliance"
-            pilot: "Trade Federation Drone"
-            ship: "Vulture-class Droid Fighter"
-            threat: 1
-            upgrades: [
-                "Energy-Shell Charges"
-            ]
-        }
-        {
-            id: 346
-            faction: "Separatist Alliance"
-            pilot: "DFS-081"
-            ship: "Vulture-class Droid Fighter"
-            threat: 2
-            upgrades: [
-                "Proton Rockets"
-                "Grappling Struts"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 347
-            faction: "Separatist Alliance"
-            pilot: "Haor Chall Prototype"
-            ship: "Vulture-class Droid Fighter"
-            threat: 2
-            upgrades: [
-                "Energy-Shell Charges"
-                "Stealth Device"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 348
-            faction: "Separatist Alliance"
-            pilot: "General Grievous"
-            ship: "Belbullab-22 Starfighter"
-            threat: 3
-            upgrades: [
-                "Treacherous"
-                "Impervium Plating"
-                "Soulless One"
-                "TV-94"
-            ]
-        }
-        {
-            id: 349
-            faction: "Separatist Alliance"
-            pilot: "Wat Tambor"
-            ship: "Belbullab-22 Starfighter"
-            threat: 3
-            upgrades: [
-                "Intimidation"
-                "Kraken"
-                "Shield Upgrade"
-            ]
-        }
-        {
-            id: 350
-            faction: "Separatist Alliance"
-            pilot: "Skakoan Ace"
-            ship: "Belbullab-22 Starfighter"
-            threat: 2
-            upgrades: [
-                "Crack Shot"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 351
-            faction: "Separatist Alliance"
-            pilot: "Captain Sear"
-            ship: "Belbullab-22 Starfighter"
-            threat: 3
-            upgrades: [
-                "Daredevil"
-                "Impervium Plating"
-                "Kraken"
-                "Stealth Device"
-            ]
-        }
-        {
-            id: 352
-            faction: "Separatist Alliance"
-            pilot: "Feethan Ottraw Autopilot"
-            ship: "Belbullab-22 Starfighter"
-            threat: 2
-            upgrades: [
-                "Impervium Plating"
-                "TV-94"
-            ]
-        }
-        {
-            id: 353
-            faction: "Resistance"
-            pilot: "Cova Nell"
-            ship: "Resistance Transport"
-            threat: 3
-            upgrades: [
-                "Composure"
-                "Leia Organa (Resistance)"
-                "Korr Sella"
-            ]
-        }
-        {
-            id: 354
-            faction: "Resistance"
-            pilot: "Pammich Nerro Goode"
-            ship: "Resistance Transport"
-            threat: 2
-            upgrades: [
-                "Autoblasters"
-                "R5-X3"
-                "Kaydel Connix"
-                "Spare Parts Canisters"
-            ]
-        }
-        {
-            id: 355
-            faction: "Resistance"
-            pilot: "Nodin Chavdri"
-            ship: "Resistance Transport"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "R2-HA"
-                "Angled Deflectors"
-            ]
-        }
-        {
-            id: 356
-            faction: "Resistance"
-            pilot: "Logistics Division Pilot"
-            ship: "Resistance Transport"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "Larma D'Acy"
-                "Amilyn Holdo"
-            ]
-        }
-        {
-            id: 357
-            faction: "Resistance"
-            pilot: "Rose Tico"
-            ship: "Resistance Transport Pod"
-            threat: 1
-            upgrades: [
-                "PZ-4CO"
-            ]
-        }
-        {
-            id: 358
-            faction: "Resistance"
-            pilot: "Finn"
-            ship: "Resistance Transport Pod"
-            threat: 1
-            upgrades: [
-                "Predator"
-            ]
-        }
-        {
-            id: 359
-            faction: "Resistance"
-            pilot: "BB-8"
-            ship: "Resistance Transport Pod"
-            threat: 2
-            upgrades: [
-                "Autoblasters"
-                "Afterburners"
-            ]
-        }
-        {
-            id: 360
-            faction: "Resistance"
-            pilot: "Vi Moradi"
-            ship: "Resistance Transport Pod"
-            threat: 1
-            upgrades: [
-                "GA-97"
-            ]
-        }
-        {
-            id: 361
-            faction: "Galactic Republic"
-            pilot: "Padmé Amidala"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 2
-            upgrades: [
-                "Elusive"
-                "Collision Detector"
-            ]
-        }
-        {
-            id: 362
-            faction: "Galactic Republic"
-            pilot: "Dineé Ellberger"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 2
-            upgrades: [
-                "Passive Sensors"
-                "R3 Astromech"
-                "Plasma Torpedoes"
-            ]
-        }
-        {
-            id: 363
-            faction: "Galactic Republic"
-            pilot: "Bravo Flight Officer"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 2
-            upgrades: [
-                "Passive Sensors"
-                "R2-C4"
-                "Proton Torpedoes"
-            ]
-        }
-        {
-            id: 364
-            faction: "Galactic Republic"
-            pilot: "Anakin Skywalker (N-1 Starfighter)"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 3
-            upgrades: [
-                "Outmaneuver"
-                "Proton Torpedoes"
-                "Heightened Perception"
-                "R2 Astromech"
-                "Collision Detector"
-            ]
-        }
-        {
-            id: 365
-            faction: "Galactic Republic"
-            pilot: "Ric Olié"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 2
-            upgrades: [
-                "Daredevil"
-                "R2-A6"
-            ]
-        }
-        {
-            id: 366
-            faction: "Galactic Republic"
-            pilot: "Naboo Handmaiden"
-            ship: "Naboo Royal N-1 Starfighter"
-            threat: 2
-            upgrades: [
-                "Plasma Torpedoes"
-                "R5 Astromech"
-            ]
-        }
-        {
-            id: 367
-            faction: "Separatist Alliance"
-            pilot: "Baktoid Prototype"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "Passive Sensors"
-                "Barrage Rockets"
-                "Hull Upgrade"
-            ]
-        }
-        {
-            id: 368
-            faction: "Separatist Alliance"
-            pilot: "Bombardment Drone"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "Trajectory Simulator"
-                "Delayed Fuses"
-                "Bomblet Generator"
-            ]
-        }
-        {
-            id: 369
-            faction: "Separatist Alliance"
-            pilot: "DBS-32C"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "TA-175"
-                "Stealth Device"
-                "Landing Struts"
-            ]
-        }
-        {
-            id: 370
-            faction: "Separatist Alliance"
-            pilot: "DBS-404"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "Predator"
-                "Plasma Torpedoes"
-                "Afterburners"
-                "Landing Struts"
-            ]
-        }
-        {
-            id: 371
-            faction: "Separatist Alliance"
-            pilot: "Separatist Bomber"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "Passive Sensors"
-                "Diamond-Boron Missiles"
-            ]
-        }
-        {
-            id: 372
-            faction: "Separatist Alliance"
-            pilot: "Techno Union Bomber"
-            ship: "Hyena-Class Droid Bomber"
-            threat: 2
-            upgrades: [
-                "Proton Torpedoes"
-                "Electro-Proton Bomb"
-                "Delayed Fuses"
-            ]
-        }
-
     ]
 
 
