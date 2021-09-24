@@ -1,7 +1,8 @@
 body {
   -webkit-print-color-adjust: exact;
   color-adjust: exact !important;
-  background-color: transparent !important;
+  background-color: white;
+  color: black;
   zoom: 75%; }
 
 .modal-backdrop {
@@ -32,11 +33,15 @@ body {
     stroke: gray; }
   #printable .bw .fancy-dial .svg-maneuver-inner.svg-red-maneuver {
     stroke: black; }
+  #printable .bw .fancy-dial .svg-maneuver-inner.svg-purple-maneuver {
+    stroke: grey; }
   #printable .bw .fancy-dial .svg-maneuver-outer.svg-base-maneuver {
     stroke: black; }
   #printable .bw .fancy-dial .svg-maneuver-outer.svg-modified-maneuver {
     stroke: gray; }
   #printable .bw .fancy-dial .svg-maneuver-stop.svg-red-maneuver {
+    fill: black !important; }
+  #printable .bw .fancy-dial .svg-maneuver-stop.svg-purple-maneuver {
     fill: black !important; }
   #printable .bw .fancy-dial .svg-maneuver-stop.svg-white-maneuver {
     fill: white !important;
@@ -56,7 +61,7 @@ body {
     border: 2px solid gray !important; }
   #printable .bw i.xwing-miniatures-font-agility, #printable .bw i.xwing-miniatures-font-hull, #printable .bw i.xwing-miniatures-font-energy, #printable .bw i.xwing-miniatures-font-shield, #printable .bw i.xwing-miniatures-font-attack-bullseye, #printable .bw i.xwing-miniatures-font-forcecharge, #printable .bw i.xwing-miniatures-font-charge, #printable .bw i.xwing-miniatures-font-doubleturretarc, #printable .bw i.xwing-miniatures-font-singleturretarc, #printable .bw i.xwing-miniatures-font-frontarc, #printable .bw i.xwing-miniatures-font-reararc, #printable .bw i.xwing-miniatures-font-fullfrontarc {
     background: white; }
-  #printable .bw .upgrade-attack .xwing-miniatures-font-attack, #printable .bw .upgrade-attack i.xwing-miniatures-font-doublearcturret, #printable .bw .upgrade-attack i.xwing-miniatures-font-singleturretarc, #printable .bw .upgrade-attack i.xwing-miniatures-font-frontarc, #printable .bw .upgrade-attack i.xwing-miniatures-font-reararc, #printable .bw .upgrade-attack i.xwing-miniatures-font-fullfrontarc {
+  #printable .bw .upgrade-attack .xwing-miniatures-font-attack, #printable .bw .upgrade-attack i.xwing-miniatures-font-doubleturretarc, #printable .bw .upgrade-attack i.xwing-miniatures-font-singleturretarc, #printable .bw .upgrade-attack i.xwing-miniatures-font-frontarc, #printable .bw .upgrade-attack i.xwing-miniatures-font-reararc, #printable .bw .upgrade-attack i.xwing-miniatures-font-fullfrontarc {
     background: black;
     color: white; }
   #printable .bw .upgrade-energy .xwing-miniatures-font-energy {
@@ -83,13 +88,13 @@ body {
     #printable .fancy-header .squad-name {
       position: absolute;
       font-size: 0.28125in;
-      margin-top: 0.075in;
+      margin-top: 0.0375in;
       font-weight: 100; }
       #printable .fancy-header .squad-name .xwing-miniatures-font {
         font-size: 0.2625in; }
     #printable .fancy-header .squad-faction {
       position: absolute;
-      margin-top: 0.075in;
+      margin-top: 0;
       right: 0.984375in;
       font-weight: 100; }
       #printable .fancy-header .squad-faction .xwing-miniatures-font {
@@ -143,7 +148,7 @@ body {
       #printable .fancy-ship .fancy-pilot-header .pilot-header-text {
         position: absolute;
         font-size: 0.225in;
-        margin-top: -0.225in;
+        margin-top: -0.39in;
         font-weight: 100; }
         #printable .fancy-ship .fancy-pilot-header .pilot-header-text .fancy-ship-type {
           font-style: italic;
@@ -157,7 +162,7 @@ body {
         top: -0.3in;
         width: 0.45in;
         background-color: white;
-        height: 0.6in;
+        height: 0.66in;
         z-index: 999; }
       #printable .fancy-ship .fancy-pilot-header .outer-circle {
         width: 0.45in;
@@ -220,7 +225,7 @@ body {
           display: inline-block;
           vertical-align: middle;
           width: 0.3375in;
-          height: 0.3375in;
+          height: 0.37125in;
           z-index: 999;
           margin-right: 0.04in; }
         #printable .fancy-ship .fancy-upgrade-container .upgrade-container .outer-circle {
