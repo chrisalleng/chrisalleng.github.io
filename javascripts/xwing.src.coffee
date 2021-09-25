@@ -2299,7 +2299,7 @@ class exportObj.SquadBuilder
             fill_zero_pts: false
         @total_points = 0
         # a squad given in the link is loaded on construction of that builder. It will set all gamemodes of already existing builders accordingly, but we did not exists back than. So we copy over the gamemode
-        @isHyperspace = exportObj.builders[0]?.isHyperspace ? false
+        @isHyperspace = true
         @isEpic = exportObj.builders[0]?.isEpic ? false
         @isQuickbuild = exportObj.builders[0]?.isQuickbuild ? false
 
@@ -2397,10 +2397,7 @@ class exportObj.SquadBuilder
                     </div>
                     <br />
                     <select class="game-type-selector">
-                        <option value="standard" class="translated" defaultText="Extended" selected="selected">#{@uitranslation("Extended")}</option>
-                        <option value="hyperspace" class="translated" defaultText="Krayt Cup"></option>
-                        <option value="epic" class="translated" defaultText="Epic"></option>
-                        <option value="quickbuild" class="translated" defaultText="Quickbuild"></option>
+                        <option value="standard" class="translated" defaultText="Krayt Cup" selected="selected">#{@uitranslation("Krayt Cup")}</option>
                     </select>
                 </div>
                 <div class="col-md-4 points-display-container">
@@ -3584,11 +3581,12 @@ class exportObj.SquadBuilder
         oldHyperspace = @isHyperspace
         oldEpic = @isEpic
         oldQuickbuild = @isQuickbuild
-        @isHyperspace = false
+        @isHyperspace = true
         @isEpic = false
         @isQuickbuild = false
         switch gametype
             when 'standard'
+                @isHyperspace = true
                 @desired_points_input.val 200
             when 'hyperspace'
                 @isHyperspace = true
