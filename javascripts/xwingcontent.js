@@ -14289,6 +14289,18 @@ exportObj.hyperspaceShipInclusions = [
     name: 'Sheathipede-Class Shuttle',
     faction: 'Rebel Alliance'
   }, {
+    name: 'ARC-170',
+    faction: 'Rebel Alliance'
+  }, {
+    name: 'TIE Fighter',
+    faction: 'Rebel Alliance'
+  }, {
+    name: 'HWK-290',
+    faction: 'Rebel Alliance'
+  }, {
+    name: 'Z-95 Headhunter',
+    faction: 'Rebel Alliance'
+  }, {
     name: 'TIE Advanced',
     faction: 'Galactic Empire'
   }, {
@@ -14365,6 +14377,9 @@ exportObj.hyperspaceShipInclusions = [
     faction: 'Resistance'
   }, {
     name: 'Resistance Transport Pod',
+    faction: 'Resistance'
+  }, {
+    name: 'Scavenged YT-1300',
     faction: 'Resistance'
   }, {
     name: 'TIE/Ba Interceptor',
